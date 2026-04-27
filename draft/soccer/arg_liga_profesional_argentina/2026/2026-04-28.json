@@ -1,0 +1,495 @@
+{
+  "generated_at": "2026-04-28T00:51:46",
+  "groups": [
+    {
+      "group_name": "Promedios 2026",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "id": "451",
+            "name": "Boca Juniors"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 156
+        },
+        {
+          "position": 2,
+          "team": {
+            "id": "435",
+            "name": "River Plate"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 152
+        },
+        {
+          "position": 3,
+          "team": {
+            "id": "438",
+            "name": "Velez Sarsfield"
+          },
+          "played": 87,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 142
+        },
+        {
+          "position": 4,
+          "team": {
+            "id": "436",
+            "name": "Racing Club"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 143
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": "458",
+            "name": "Argentinos JRS"
+          },
+          "played": 87,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 139
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": "437",
+            "name": "Rosario Central"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 140
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": "450",
+            "name": "Estudiantes L.P."
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 133
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": "446",
+            "name": "Lanus"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 132
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": "445",
+            "name": "Huracan"
+          },
+          "played": 87,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 130
+        },
+        {
+          "position": 10,
+          "team": {
+            "id": "456",
+            "name": "Talleres Cordoba"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 131
+        },
+        {
+          "position": 11,
+          "team": {
+            "id": "453",
+            "name": "Independiente"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 131
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": "473",
+            "name": "Independ. Rivadavia"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 122
+        },
+        {
+          "position": 13,
+          "team": {
+            "id": "441",
+            "name": "Union Santa Fe"
+          },
+          "played": 87,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 118
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": "2432",
+            "name": "Barracas Central"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 119
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": "460",
+            "name": "San Lorenzo"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 118
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": "442",
+            "name": "Defensa Y Justicia"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 115
+        },
+        {
+          "position": 17,
+          "team": {
+            "id": "476",
+            "name": "Deportivo Riestra"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 110
+        },
+        {
+          "position": 18,
+          "team": {
+            "id": "440",
+            "name": "Belgrano Cordoba"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 109
+        },
+        {
+          "position": 19,
+          "team": {
+            "id": "434",
+            "name": "Gimnasia L.P."
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 109
+        },
+        {
+          "position": 20,
+          "team": {
+            "id": "1064",
+            "name": "Platense"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 108
+        },
+        {
+          "position": 21,
+          "team": {
+            "id": "452",
+            "name": "Tigre"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 107
+        },
+        {
+          "position": 22,
+          "team": {
+            "id": "478",
+            "name": "Instituto Cordoba"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 105
+        },
+        {
+          "position": 23,
+          "team": {
+            "id": "1065",
+            "name": "Central Cordoba de Santiago"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 100
+        },
+        {
+          "position": 24,
+          "team": {
+            "id": "457",
+            "name": "Newells Old Boys"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 96
+        },
+        {
+          "position": 25,
+          "team": {
+            "id": "455",
+            "name": "Atletico Tucuman"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 95
+        },
+        {
+          "position": 26,
+          "team": {
+            "id": "1066",
+            "name": "Gimnasia M."
+          },
+          "played": 15,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 16
+        },
+        {
+          "position": 27,
+          "team": {
+            "id": "449",
+            "name": "Banfield"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 91
+        },
+        {
+          "position": 28,
+          "team": {
+            "id": "474",
+            "name": "Sarmiento Junin"
+          },
+          "played": 88,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 89
+        },
+        {
+          "position": 29,
+          "team": {
+            "id": "463",
+            "name": "Aldosivi"
+          },
+          "played": 47,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 40
+        },
+        {
+          "position": 30,
+          "team": {
+            "id": "2424",
+            "name": "Estudiantes de Rio Cuarto"
+          },
+          "played": 15,
+          "win": 0,
+          "draw": 0,
+          "loss": 0,
+          "goal_for": 0,
+          "goal_against": 0,
+          "goal_difference": 0,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "group_name": "Group B",
+      "table": [
+        {
+          "position": 10,
+          "team": {
+            "id": "461",
+            "name": "San Martin S.J."
+          },
+          "played": 16,
+          "win": 4,
+          "draw": 7,
+          "loss": 5,
+          "goal_for": 13,
+          "goal_against": 16,
+          "goal_difference": -3,
+          "points": 19
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": "439",
+            "name": "Godoy Cruz"
+          },
+          "played": 16,
+          "win": 1,
+          "draw": 9,
+          "loss": 6,
+          "goal_for": 11,
+          "goal_against": 19,
+          "goal_difference": -8,
+          "points": 12
+        }
+      ]
+    }
+  ]
+}
