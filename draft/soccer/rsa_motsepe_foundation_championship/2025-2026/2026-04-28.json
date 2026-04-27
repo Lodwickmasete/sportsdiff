@@ -1,0 +1,246 @@
+{
+  "group_name": "Division 1",
+  "generated_at": "2026-04-28T00:52:18",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "24759",
+        "name": "Kruger United"
+      },
+      "played": 27,
+      "win": 16,
+      "draw": 7,
+      "loss": 4,
+      "goal_for": 44,
+      "goal_against": 31,
+      "goal_difference": 13,
+      "points": 55
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "22234",
+        "name": "Milford FC"
+      },
+      "played": 27,
+      "win": 14,
+      "draw": 5,
+      "loss": 8,
+      "goal_for": 36,
+      "goal_against": 23,
+      "goal_difference": 13,
+      "points": 47
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "10561",
+        "name": "Hungry Lions"
+      },
+      "played": 27,
+      "win": 13,
+      "draw": 8,
+      "loss": 6,
+      "goal_for": 37,
+      "goal_against": 25,
+      "goal_difference": 12,
+      "points": 47
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "2697",
+        "name": "Cape Town City"
+      },
+      "played": 27,
+      "win": 12,
+      "draw": 9,
+      "loss": 6,
+      "goal_for": 36,
+      "goal_against": 21,
+      "goal_difference": 15,
+      "points": 45
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "19997",
+        "name": "Casric Stars"
+      },
+      "played": 27,
+      "win": 11,
+      "draw": 10,
+      "loss": 6,
+      "goal_for": 39,
+      "goal_against": 26,
+      "goal_difference": 13,
+      "points": 43
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "22235",
+        "name": "Upington City"
+      },
+      "played": 27,
+      "win": 10,
+      "draw": 7,
+      "loss": 10,
+      "goal_for": 35,
+      "goal_against": 31,
+      "goal_difference": 4,
+      "points": 37
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "24758",
+        "name": "Highbury"
+      },
+      "played": 27,
+      "win": 10,
+      "draw": 6,
+      "loss": 11,
+      "goal_for": 25,
+      "goal_against": 27,
+      "goal_difference": -2,
+      "points": 36
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "26434",
+        "name": "Leicesterfield"
+      },
+      "played": 27,
+      "win": 9,
+      "draw": 7,
+      "loss": 11,
+      "goal_for": 22,
+      "goal_against": 35,
+      "goal_difference": -13,
+      "points": 34
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "17357",
+        "name": "Venda FC"
+      },
+      "played": 27,
+      "win": 8,
+      "draw": 9,
+      "loss": 10,
+      "goal_for": 20,
+      "goal_against": 25,
+      "goal_difference": -5,
+      "points": 33
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "26396",
+        "name": "Gomora United FC"
+      },
+      "played": 26,
+      "win": 6,
+      "draw": 14,
+      "loss": 6,
+      "goal_for": 26,
+      "goal_against": 30,
+      "goal_difference": -4,
+      "points": 32
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "10569",
+        "name": "University of Pretoria"
+      },
+      "played": 27,
+      "win": 7,
+      "draw": 11,
+      "loss": 9,
+      "goal_for": 31,
+      "goal_against": 36,
+      "goal_difference": -5,
+      "points": 32
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "25526",
+        "name": "Lerumo Lions"
+      },
+      "played": 27,
+      "win": 8,
+      "draw": 8,
+      "loss": 11,
+      "goal_for": 30,
+      "goal_against": 35,
+      "goal_difference": -5,
+      "points": 32
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "25529",
+        "name": "The Bees"
+      },
+      "played": 27,
+      "win": 8,
+      "draw": 7,
+      "loss": 12,
+      "goal_for": 32,
+      "goal_against": 31,
+      "goal_difference": 1,
+      "points": 31
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "26397",
+        "name": "Midlands Wanderers"
+      },
+      "played": 26,
+      "win": 8,
+      "draw": 7,
+      "loss": 11,
+      "goal_for": 23,
+      "goal_against": 33,
+      "goal_difference": -10,
+      "points": 31
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "2661",
+        "name": "Black Leopards"
+      },
+      "played": 27,
+      "win": 5,
+      "draw": 10,
+      "loss": 12,
+      "goal_for": 23,
+      "goal_against": 30,
+      "goal_difference": -7,
+      "points": 25
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "2688",
+        "name": "Baroka FC"
+      },
+      "played": 27,
+      "win": 4,
+      "draw": 7,
+      "loss": 16,
+      "goal_for": 20,
+      "goal_against": 40,
+      "goal_difference": -20,
+      "points": 19
+    }
+  ]
+}
