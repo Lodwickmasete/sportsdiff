@@ -1,0 +1,486 @@
+{
+  "group_name": "CONMEBOL Libertadores 2026, G",
+  "generated_at": "2026-04-28T00:51:49",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "473",
+        "name": "Independ. Rivadavia"
+      },
+      "played": 2,
+      "win": 2,
+      "draw": 0,
+      "loss": 0,
+      "goal_for": 3,
+      "goal_against": 1,
+      "goal_difference": 2,
+      "points": 6
+    },
+    {
+      "position": 1,
+      "team": {
+        "id": "451",
+        "name": "Boca Juniors"
+      },
+      "played": 2,
+      "win": 2,
+      "draw": 0,
+      "loss": 0,
+      "goal_for": 5,
+      "goal_against": 1,
+      "goal_difference": 4,
+      "points": 6
+    },
+    {
+      "position": 1,
+      "team": {
+        "id": "1153",
+        "name": "Independiente del Valle"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 1,
+      "loss": 0,
+      "goal_for": 3,
+      "goal_against": 1,
+      "goal_difference": 2,
+      "points": 4
+    },
+    {
+      "position": 1,
+      "team": {
+        "id": "1158",
+        "name": "LDU de Quito"
+      },
+      "played": 2,
+      "win": 2,
+      "draw": 0,
+      "loss": 0,
+      "goal_for": 3,
+      "goal_against": 0,
+      "goal_difference": 3,
+      "points": 6
+    },
+    {
+      "position": 1,
+      "team": {
+        "id": "121",
+        "name": "Palmeiras"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 1,
+      "loss": 0,
+      "goal_for": 3,
+      "goal_against": 2,
+      "goal_difference": 1,
+      "points": 4
+    },
+    {
+      "position": 1,
+      "team": {
+        "id": "2356",
+        "name": "Club Nacional"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 1,
+      "loss": 0,
+      "goal_for": 4,
+      "goal_against": 2,
+      "goal_difference": 2,
+      "points": 4
+    },
+    {
+      "position": 1,
+      "team": {
+        "id": "127",
+        "name": "Flamengo"
+      },
+      "played": 2,
+      "win": 2,
+      "draw": 0,
+      "loss": 0,
+      "goal_for": 6,
+      "goal_against": 1,
+      "goal_difference": 5,
+      "points": 6
+    },
+    {
+      "position": 1,
+      "team": {
+        "id": "131",
+        "name": "Corinthians"
+      },
+      "played": 2,
+      "win": 2,
+      "draw": 0,
+      "loss": 0,
+      "goal_for": 4,
+      "goal_against": 0,
+      "goal_difference": 4,
+      "points": 6
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "1064",
+        "name": "Platense"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 2,
+      "goal_against": 3,
+      "goal_difference": -1,
+      "points": 3
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "450",
+        "name": "Estudiantes L.P."
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 1,
+      "loss": 0,
+      "goal_for": 3,
+      "goal_against": 2,
+      "goal_difference": 1,
+      "points": 4
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "446",
+        "name": "Lanus"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 1,
+      "goal_against": 1,
+      "goal_difference": 0,
+      "points": 3
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "437",
+        "name": "Rosario Central"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 1,
+      "loss": 0,
+      "goal_for": 1,
+      "goal_against": 0,
+      "goal_difference": 1,
+      "points": 4
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "2994",
+        "name": "U. Catolica"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 3,
+      "goal_against": 3,
+      "goal_difference": 0,
+      "points": 3
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "2813",
+        "name": "Deportivo La Guaira"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 2,
+      "loss": 0,
+      "goal_for": 1,
+      "goal_against": 1,
+      "goal_difference": 0,
+      "points": 2
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "2546",
+        "name": "Sporting Cristal"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 2,
+      "goal_against": 2,
+      "goal_difference": 0,
+      "points": 3
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "2330",
+        "name": "Coquimbo Unido"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 1,
+      "loss": 0,
+      "goal_for": 3,
+      "goal_against": 1,
+      "goal_difference": 2,
+      "points": 4
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "135",
+        "name": "Cruzeiro"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 2,
+      "goal_against": 2,
+      "goal_difference": 0,
+      "points": 3
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "2348",
+        "name": "Penarol"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 2,
+      "goal_against": 3,
+      "goal_difference": -1,
+      "points": 1
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "1176",
+        "name": "Cerro Porteno"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 1,
+      "goal_against": 1,
+      "goal_difference": 0,
+      "points": 3
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "2840",
+        "name": "UCV"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 4,
+      "goal_against": 4,
+      "goal_difference": 0,
+      "points": 3
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "3702",
+        "name": "Bolívar"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 1,
+      "goal_against": 2,
+      "goal_difference": -1,
+      "points": 1
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "1142",
+        "name": "Deportes Tolima"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 1,
+      "goal_against": 3,
+      "goal_difference": -2,
+      "points": 1
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "1128",
+        "name": "Independiente Medellin"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 2,
+      "goal_against": 5,
+      "goal_difference": -3,
+      "points": 1
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "7848",
+        "name": "Mirassol"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 1,
+      "goal_against": 2,
+      "goal_difference": -1,
+      "points": 3
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "124",
+        "name": "Fluminense"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 1,
+      "goal_against": 2,
+      "goal_difference": -1,
+      "points": 1
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "2540",
+        "name": "Universitario"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 0,
+      "goal_against": 2,
+      "goal_difference": -2,
+      "points": 1
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "1179",
+        "name": "Libertad Asuncion"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 0,
+      "loss": 2,
+      "goal_for": 1,
+      "goal_against": 4,
+      "goal_difference": -3,
+      "points": 0
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "1152",
+        "name": "Barcelona SC"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 0,
+      "loss": 2,
+      "goal_for": 0,
+      "goal_against": 4,
+      "goal_difference": -4,
+      "points": 0
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "3700",
+        "name": "Always Ready"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 0,
+      "loss": 2,
+      "goal_for": 0,
+      "goal_against": 2,
+      "goal_difference": -2,
+      "points": 0
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "1139",
+        "name": "Santa Fe"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 1,
+      "goal_against": 3,
+      "goal_difference": -2,
+      "points": 1
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "1135",
+        "name": "Junior"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 1,
+      "goal_against": 2,
+      "goal_difference": -1,
+      "points": 1
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "10013",
+        "name": "Cusco"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 0,
+      "loss": 2,
+      "goal_for": 1,
+      "goal_against": 4,
+      "goal_difference": -3,
+      "points": 0
+    }
+  ]
+}
