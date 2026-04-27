@@ -1,0 +1,546 @@
+{
+  "group_name": "UEFA Conference League",
+  "generated_at": "2026-04-28T00:52:45",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "95",
+        "name": "Strasbourg"
+      },
+      "played": 6,
+      "win": 5,
+      "draw": 1,
+      "loss": 0,
+      "goal_for": 11,
+      "goal_against": 5,
+      "goal_difference": 6,
+      "points": 16
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "3491",
+        "name": "Raków Częstochowa"
+      },
+      "played": 6,
+      "win": 4,
+      "draw": 2,
+      "loss": 0,
+      "goal_for": 9,
+      "goal_against": 2,
+      "goal_difference": 7,
+      "points": 14
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "575",
+        "name": "AEK Athens FC"
+      },
+      "played": 6,
+      "win": 4,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 14,
+      "goal_against": 7,
+      "goal_difference": 7,
+      "points": 13
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "628",
+        "name": "Sparta Praha"
+      },
+      "played": 6,
+      "win": 4,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 10,
+      "goal_against": 3,
+      "goal_difference": 7,
+      "points": 13
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "728",
+        "name": "Rayo Vallecano"
+      },
+      "played": 6,
+      "win": 4,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 13,
+      "goal_against": 7,
+      "goal_difference": 6,
+      "points": 13
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "550",
+        "name": "Shakhtar Donetsk"
+      },
+      "played": 6,
+      "win": 4,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 10,
+      "goal_against": 5,
+      "goal_difference": 5,
+      "points": 13
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "164",
+        "name": "FSV Mainz 05"
+      },
+      "played": 6,
+      "win": 4,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 7,
+      "goal_against": 3,
+      "goal_difference": 4,
+      "points": 13
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "614",
+        "name": "AEK Larnaca"
+      },
+      "played": 6,
+      "win": 3,
+      "draw": 3,
+      "loss": 0,
+      "goal_for": 7,
+      "goal_against": 1,
+      "goal_difference": 6,
+      "points": 12
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "1014",
+        "name": "Lausanne"
+      },
+      "played": 6,
+      "win": 3,
+      "draw": 2,
+      "loss": 1,
+      "goal_for": 6,
+      "goal_against": 3,
+      "goal_difference": 3,
+      "points": 11
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "52",
+        "name": "Crystal Palace"
+      },
+      "played": 6,
+      "win": 3,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 11,
+      "goal_against": 6,
+      "goal_difference": 5,
+      "points": 10
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "347",
+        "name": "Lech Poznan"
+      },
+      "played": 6,
+      "win": 3,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 12,
+      "goal_against": 8,
+      "goal_difference": 4,
+      "points": 10
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "3603",
+        "name": "Samsunspor"
+      },
+      "played": 6,
+      "win": 3,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 10,
+      "goal_against": 6,
+      "goal_difference": 4,
+      "points": 10
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "4360",
+        "name": "Celje"
+      },
+      "played": 6,
+      "win": 3,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 8,
+      "goal_against": 7,
+      "goal_difference": 1,
+      "points": 10
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "201",
+        "name": "AZ Alkmaar"
+      },
+      "played": 6,
+      "win": 3,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 7,
+      "goal_against": 7,
+      "goal_difference": 0,
+      "points": 10
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "502",
+        "name": "Fiorentina"
+      },
+      "played": 6,
+      "win": 3,
+      "draw": 0,
+      "loss": 3,
+      "goal_for": 8,
+      "goal_against": 5,
+      "goal_difference": 3,
+      "points": 9
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "561",
+        "name": "HNK Rijeka"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 3,
+      "loss": 1,
+      "goal_for": 5,
+      "goal_against": 2,
+      "goal_difference": 3,
+      "points": 9
+    },
+    {
+      "position": 17,
+      "team": {
+        "id": "336",
+        "name": "Jagiellonia"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 3,
+      "loss": 1,
+      "goal_for": 5,
+      "goal_against": 4,
+      "goal_difference": 1,
+      "points": 9
+    },
+    {
+      "position": 18,
+      "team": {
+        "id": "3402",
+        "name": "Omonia Nicosia"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 2,
+      "loss": 2,
+      "goal_for": 5,
+      "goal_against": 4,
+      "goal_difference": 1,
+      "points": 8
+    },
+    {
+      "position": 19,
+      "team": {
+        "id": "3684",
+        "name": "FC Noah"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 2,
+      "loss": 2,
+      "goal_for": 6,
+      "goal_against": 7,
+      "goal_difference": -1,
+      "points": 8
+    },
+    {
+      "position": 20,
+      "team": {
+        "id": "14281",
+        "name": "Drita"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 2,
+      "loss": 2,
+      "goal_for": 4,
+      "goal_against": 8,
+      "goal_difference": -4,
+      "points": 8
+    },
+    {
+      "position": 21,
+      "team": {
+        "id": "1165",
+        "name": "KuPS"
+      },
+      "played": 6,
+      "win": 1,
+      "draw": 4,
+      "loss": 1,
+      "goal_for": 6,
+      "goal_against": 5,
+      "goal_difference": 1,
+      "points": 7
+    },
+    {
+      "position": 22,
+      "team": {
+        "id": "609",
+        "name": "Shkendija"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 1,
+      "loss": 3,
+      "goal_for": 4,
+      "goal_against": 5,
+      "goal_difference": -1,
+      "points": 7
+    },
+    {
+      "position": 23,
+      "team": {
+        "id": "588",
+        "name": "Zrinjski"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 1,
+      "loss": 3,
+      "goal_for": 8,
+      "goal_against": 10,
+      "goal_difference": -2,
+      "points": 7
+    },
+    {
+      "position": 24,
+      "team": {
+        "id": "2250",
+        "name": "Sigma Olomouc"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 1,
+      "loss": 3,
+      "goal_for": 7,
+      "goal_against": 9,
+      "goal_difference": -2,
+      "points": 7
+    },
+    {
+      "position": 25,
+      "team": {
+        "id": "632",
+        "name": "Universitatea Craiova"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 1,
+      "loss": 3,
+      "goal_for": 6,
+      "goal_against": 8,
+      "goal_difference": -2,
+      "points": 7
+    },
+    {
+      "position": 26,
+      "team": {
+        "id": "667",
+        "name": "Lincoln Red Imps FC"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 1,
+      "loss": 3,
+      "goal_for": 7,
+      "goal_against": 15,
+      "goal_difference": -8,
+      "points": 7
+    },
+    {
+      "position": 27,
+      "team": {
+        "id": "572",
+        "name": "Dynamo Kyiv"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 0,
+      "loss": 4,
+      "goal_for": 9,
+      "goal_against": 9,
+      "goal_difference": 0,
+      "points": 6
+    },
+    {
+      "position": 28,
+      "team": {
+        "id": "339",
+        "name": "Legia Warszawa"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 0,
+      "loss": 4,
+      "goal_for": 8,
+      "goal_against": 8,
+      "goal_difference": 0,
+      "points": 6
+    },
+    {
+      "position": 29,
+      "team": {
+        "id": "656",
+        "name": "Slovan Bratislava"
+      },
+      "played": 6,
+      "win": 2,
+      "draw": 0,
+      "loss": 4,
+      "goal_for": 5,
+      "goal_against": 9,
+      "goal_difference": -4,
+      "points": 6
+    },
+    {
+      "position": 30,
+      "team": {
+        "id": "276",
+        "name": "Breidablik"
+      },
+      "played": 6,
+      "win": 1,
+      "draw": 2,
+      "loss": 3,
+      "goal_for": 6,
+      "goal_against": 11,
+      "goal_difference": -5,
+      "points": 5
+    },
+    {
+      "position": 31,
+      "team": {
+        "id": "652",
+        "name": "Shamrock Rovers"
+      },
+      "played": 6,
+      "win": 1,
+      "draw": 1,
+      "loss": 4,
+      "goal_for": 7,
+      "goal_against": 13,
+      "goal_difference": -6,
+      "points": 4
+    },
+    {
+      "position": 32,
+      "team": {
+        "id": "367",
+        "name": "BK Hacken"
+      },
+      "played": 6,
+      "win": 0,
+      "draw": 3,
+      "loss": 3,
+      "goal_for": 5,
+      "goal_against": 8,
+      "goal_difference": -3,
+      "points": 3
+    },
+    {
+      "position": 33,
+      "team": {
+        "id": "4626",
+        "name": "Hamrun Spartans"
+      },
+      "played": 6,
+      "win": 1,
+      "draw": 0,
+      "loss": 5,
+      "goal_for": 4,
+      "goal_against": 11,
+      "goal_difference": -7,
+      "points": 3
+    },
+    {
+      "position": 34,
+      "team": {
+        "id": "3854",
+        "name": "Shelbourne"
+      },
+      "played": 6,
+      "win": 0,
+      "draw": 2,
+      "loss": 4,
+      "goal_for": 0,
+      "goal_against": 7,
+      "goal_difference": -7,
+      "points": 2
+    },
+    {
+      "position": 35,
+      "team": {
+        "id": "252",
+        "name": "Aberdeen"
+      },
+      "played": 6,
+      "win": 0,
+      "draw": 2,
+      "loss": 4,
+      "goal_for": 3,
+      "goal_against": 14,
+      "goal_difference": -11,
+      "points": 2
+    },
+    {
+      "position": 36,
+      "team": {
+        "id": "781",
+        "name": "Rapid Vienna"
+      },
+      "played": 6,
+      "win": 0,
+      "draw": 1,
+      "loss": 5,
+      "goal_for": 3,
+      "goal_against": 14,
+      "goal_difference": -11,
+      "points": 1
+    }
+  ]
+}
