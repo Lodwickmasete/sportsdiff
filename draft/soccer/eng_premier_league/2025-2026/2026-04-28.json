@@ -1,6 +1,6 @@
 {
   "group_name": "Premier League",
-  "created_at": "2026-04-28T00:55:58",
+  "created_at": "2026-04-28T07:00:47",
   "table": [
     {
       "position": 1,
@@ -38,14 +38,14 @@
         "id": "33",
         "name": "Manchester United"
       },
-      "played": 33,
-      "win": 16,
+      "played": 34,
+      "win": 17,
       "draw": 10,
       "loss": 7,
-      "goal_for": 58,
-      "goal_against": 45,
-      "goal_difference": 13,
-      "points": 58
+      "goal_for": 60,
+      "goal_against": 46,
+      "goal_difference": 14,
+      "points": 61
     },
     {
       "position": 4,
@@ -128,13 +128,13 @@
         "id": "55",
         "name": "Brentford"
       },
-      "played": 33,
+      "played": 34,
       "win": 13,
       "draw": 9,
-      "loss": 11,
-      "goal_for": 48,
-      "goal_against": 44,
-      "goal_difference": 4,
+      "loss": 12,
+      "goal_for": 49,
+      "goal_against": 46,
+      "goal_difference": 3,
       "points": 48
     },
     {
