@@ -1,6 +1,6 @@
 {
   "group_name": "Primera División",
-  "created_at": "2026-04-28T00:55:23",
+  "created_at": "2026-04-28T07:00:12",
   "table": [
     {
       "position": 1,
@@ -185,6 +185,21 @@
     {
       "position": 13,
       "team": {
+        "id": "540",
+        "name": "Espanyol"
+      },
+      "played": 33,
+      "win": 10,
+      "draw": 9,
+      "loss": 14,
+      "goal_for": 37,
+      "goal_against": 49,
+      "goal_difference": -12,
+      "points": 39
+    },
+    {
+      "position": 14,
+      "team": {
         "id": "797",
         "name": "Elche"
       },
@@ -195,21 +210,6 @@
       "goal_for": 44,
       "goal_against": 50,
       "goal_difference": -6,
-      "points": 38
-    },
-    {
-      "position": 14,
-      "team": {
-        "id": "540",
-        "name": "Espanyol"
-      },
-      "played": 32,
-      "win": 10,
-      "draw": 8,
-      "loss": 14,
-      "goal_for": 37,
-      "goal_against": 49,
-      "goal_difference": -12,
       "points": 38
     },
     {
@@ -278,14 +278,14 @@
         "id": "539",
         "name": "Levante"
       },
-      "played": 32,
+      "played": 33,
       "win": 8,
-      "draw": 8,
+      "draw": 9,
       "loss": 16,
       "goal_for": 37,
       "goal_against": 50,
       "goal_difference": -13,
-      "points": 32
+      "points": 33
     },
     {
       "position": 20,
