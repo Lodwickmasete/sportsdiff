@@ -1,6 +1,6 @@
 {
   "group_name": "CONMEBOL Libertadores 2026, G",
-  "created_at": "2026-04-28T00:55:18",
+  "created_at": "2026-04-28T07:00:07",
   "table": [
     {
       "position": 1,
@@ -125,15 +125,30 @@
     {
       "position": 2,
       "team": {
-        "id": "1064",
-        "name": "Platense"
+        "id": "2330",
+        "name": "Coquimbo Unido"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 1,
+      "loss": 0,
+      "goal_for": 3,
+      "goal_against": 1,
+      "goal_difference": 2,
+      "points": 4
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "7848",
+        "name": "Mirassol"
       },
       "played": 2,
       "win": 1,
       "draw": 0,
       "loss": 1,
-      "goal_for": 2,
-      "goal_against": 3,
+      "goal_for": 1,
+      "goal_against": 2,
       "goal_difference": -1,
       "points": 3
     },
@@ -151,21 +166,6 @@
       "goal_against": 2,
       "goal_difference": 1,
       "points": 4
-    },
-    {
-      "position": 2,
-      "team": {
-        "id": "446",
-        "name": "Lanus"
-      },
-      "played": 2,
-      "win": 1,
-      "draw": 0,
-      "loss": 1,
-      "goal_for": 1,
-      "goal_against": 1,
-      "goal_difference": 0,
-      "points": 3
     },
     {
       "position": 2,
@@ -230,31 +230,16 @@
     {
       "position": 2,
       "team": {
-        "id": "2330",
-        "name": "Coquimbo Unido"
-      },
-      "played": 2,
-      "win": 1,
-      "draw": 1,
-      "loss": 0,
-      "goal_for": 3,
-      "goal_against": 1,
-      "goal_difference": 2,
-      "points": 4
-    },
-    {
-      "position": 3,
-      "team": {
-        "id": "135",
-        "name": "Cruzeiro"
+        "id": "1064",
+        "name": "Platense"
       },
       "played": 2,
       "win": 1,
       "draw": 0,
       "loss": 1,
       "goal_for": 2,
-      "goal_against": 2,
-      "goal_difference": 0,
+      "goal_against": 3,
+      "goal_difference": -1,
       "points": 3
     },
     {
@@ -270,6 +255,21 @@
       "goal_for": 2,
       "goal_against": 3,
       "goal_difference": -1,
+      "points": 1
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "1128",
+        "name": "Independiente Medellin"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 2,
+      "goal_against": 5,
+      "goal_difference": -3,
       "points": 1
     },
     {
@@ -305,6 +305,36 @@
     {
       "position": 3,
       "team": {
+        "id": "135",
+        "name": "Cruzeiro"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 2,
+      "goal_against": 2,
+      "goal_difference": 0,
+      "points": 3
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "446",
+        "name": "Lanus"
+      },
+      "played": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 1,
+      "goal_against": 1,
+      "goal_difference": 0,
+      "points": 3
+    },
+    {
+      "position": 3,
+      "team": {
         "id": "3702",
         "name": "Bolívar"
       },
@@ -333,81 +363,6 @@
       "points": 1
     },
     {
-      "position": 3,
-      "team": {
-        "id": "1128",
-        "name": "Independiente Medellin"
-      },
-      "played": 2,
-      "win": 0,
-      "draw": 1,
-      "loss": 1,
-      "goal_for": 2,
-      "goal_against": 5,
-      "goal_difference": -3,
-      "points": 1
-    },
-    {
-      "position": 3,
-      "team": {
-        "id": "7848",
-        "name": "Mirassol"
-      },
-      "played": 2,
-      "win": 1,
-      "draw": 0,
-      "loss": 1,
-      "goal_for": 1,
-      "goal_against": 2,
-      "goal_difference": -1,
-      "points": 3
-    },
-    {
-      "position": 4,
-      "team": {
-        "id": "124",
-        "name": "Fluminense"
-      },
-      "played": 2,
-      "win": 0,
-      "draw": 1,
-      "loss": 1,
-      "goal_for": 1,
-      "goal_against": 2,
-      "goal_difference": -1,
-      "points": 1
-    },
-    {
-      "position": 4,
-      "team": {
-        "id": "2540",
-        "name": "Universitario"
-      },
-      "played": 2,
-      "win": 0,
-      "draw": 1,
-      "loss": 1,
-      "goal_for": 0,
-      "goal_against": 2,
-      "goal_difference": -2,
-      "points": 1
-    },
-    {
-      "position": 4,
-      "team": {
-        "id": "1179",
-        "name": "Libertad Asuncion"
-      },
-      "played": 2,
-      "win": 0,
-      "draw": 0,
-      "loss": 2,
-      "goal_for": 1,
-      "goal_against": 4,
-      "goal_difference": -3,
-      "points": 0
-    },
-    {
       "position": 4,
       "team": {
         "id": "1152",
@@ -425,17 +380,17 @@
     {
       "position": 4,
       "team": {
-        "id": "3700",
-        "name": "Always Ready"
+        "id": "1135",
+        "name": "Junior"
       },
       "played": 2,
       "win": 0,
-      "draw": 0,
-      "loss": 2,
-      "goal_for": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 1,
       "goal_against": 2,
-      "goal_difference": -2,
-      "points": 0
+      "goal_difference": -1,
+      "points": 1
     },
     {
       "position": 4,
@@ -455,8 +410,53 @@
     {
       "position": 4,
       "team": {
-        "id": "1135",
-        "name": "Junior"
+        "id": "3700",
+        "name": "Always Ready"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 0,
+      "loss": 2,
+      "goal_for": 0,
+      "goal_against": 2,
+      "goal_difference": -2,
+      "points": 0
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "1179",
+        "name": "Libertad Asuncion"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 0,
+      "loss": 2,
+      "goal_for": 1,
+      "goal_against": 4,
+      "goal_difference": -3,
+      "points": 0
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "2540",
+        "name": "Universitario"
+      },
+      "played": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 0,
+      "goal_against": 2,
+      "goal_difference": -2,
+      "points": 1
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "124",
+        "name": "Fluminense"
       },
       "played": 2,
       "win": 0,
