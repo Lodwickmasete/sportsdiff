@@ -1,6 +1,6 @@
 {
   "group_name": "Primeira Liga",
-  "created_at": "2026-04-28T00:56:18",
+  "created_at": "2026-04-28T07:01:08",
   "table": [
     {
       "position": 1,
@@ -83,14 +83,14 @@
         "id": "762",
         "name": "GIL Vicente"
       },
-      "played": 30,
-      "win": 12,
+      "played": 31,
+      "win": 13,
       "draw": 10,
       "loss": 8,
-      "goal_for": 44,
-      "goal_against": 31,
-      "goal_difference": 13,
-      "points": 46
+      "goal_for": 46,
+      "goal_against": 32,
+      "goal_difference": 14,
+      "points": 49
     },
     {
       "position": 7,
@@ -233,13 +233,13 @@
         "id": "4716",
         "name": "Casa Pia"
       },
-      "played": 30,
+      "played": 31,
       "win": 5,
       "draw": 11,
-      "loss": 14,
-      "goal_for": 28,
-      "goal_against": 53,
-      "goal_difference": -25,
+      "loss": 15,
+      "goal_for": 29,
+      "goal_against": 55,
+      "goal_difference": -26,
       "points": 26
     },
     {
