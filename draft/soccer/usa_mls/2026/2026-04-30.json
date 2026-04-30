@@ -1,0 +1,465 @@
+{
+  "created_at": "2026-04-30T14:44:04",
+  "groups": [
+    {
+      "group_name": "Western Conference",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "id": "1596",
+            "name": "San Jose Earthquakes"
+          },
+          "played": 10,
+          "win": 9,
+          "draw": 0,
+          "loss": 1,
+          "goal_for": 25,
+          "goal_against": 6,
+          "goal_difference": 19,
+          "points": 27
+        },
+        {
+          "position": 2,
+          "team": {
+            "id": "1603",
+            "name": "Vancouver Whitecaps"
+          },
+          "played": 9,
+          "win": 8,
+          "draw": 0,
+          "loss": 1,
+          "goal_for": 25,
+          "goal_against": 5,
+          "goal_difference": 20,
+          "points": 24
+        },
+        {
+          "position": 3,
+          "team": {
+            "id": "1616",
+            "name": "Los Angeles FC"
+          },
+          "played": 10,
+          "win": 6,
+          "draw": 2,
+          "loss": 2,
+          "goal_for": 17,
+          "goal_against": 6,
+          "goal_difference": 11,
+          "points": 20
+        },
+        {
+          "position": 4,
+          "team": {
+            "id": "1595",
+            "name": "Seattle Sounders"
+          },
+          "played": 8,
+          "win": 6,
+          "draw": 1,
+          "loss": 1,
+          "goal_for": 12,
+          "goal_against": 4,
+          "goal_difference": 8,
+          "points": 19
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": "1612",
+            "name": "Minnesota United FC"
+          },
+          "played": 10,
+          "win": 5,
+          "draw": 2,
+          "loss": 3,
+          "goal_for": 11,
+          "goal_against": 14,
+          "goal_difference": -3,
+          "points": 17
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": "1606",
+            "name": "Real Salt Lake"
+          },
+          "played": 9,
+          "win": 5,
+          "draw": 1,
+          "loss": 3,
+          "goal_for": 17,
+          "goal_against": 14,
+          "goal_difference": 3,
+          "points": 16
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": "1610",
+            "name": "Colorado Rapids"
+          },
+          "played": 10,
+          "win": 4,
+          "draw": 1,
+          "loss": 5,
+          "goal_for": 22,
+          "goal_against": 18,
+          "goal_difference": 4,
+          "points": 13
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": "1597",
+            "name": "FC Dallas"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 4,
+          "loss": 3,
+          "goal_for": 18,
+          "goal_against": 15,
+          "goal_difference": 3,
+          "points": 13
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": "1600",
+            "name": "Houston Dynamo"
+          },
+          "played": 9,
+          "win": 4,
+          "draw": 0,
+          "loss": 5,
+          "goal_for": 12,
+          "goal_against": 18,
+          "goal_difference": -6,
+          "points": 12
+        },
+        {
+          "position": 10,
+          "team": {
+            "id": "1605",
+            "name": "Los Angeles Galaxy"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "loss": 4,
+          "goal_for": 15,
+          "goal_against": 16,
+          "goal_difference": -1,
+          "points": 12
+        },
+        {
+          "position": 11,
+          "team": {
+            "id": "25484",
+            "name": "San Diego"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 2,
+          "loss": 5,
+          "goal_for": 17,
+          "goal_against": 17,
+          "goal_difference": 0,
+          "points": 11
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": "1617",
+            "name": "Portland Timbers"
+          },
+          "played": 9,
+          "win": 3,
+          "draw": 1,
+          "loss": 5,
+          "goal_for": 13,
+          "goal_against": 19,
+          "goal_difference": -6,
+          "points": 10
+        },
+        {
+          "position": 13,
+          "team": {
+            "id": "16489",
+            "name": "Austin"
+          },
+          "played": 10,
+          "win": 2,
+          "draw": 4,
+          "loss": 4,
+          "goal_for": 14,
+          "goal_against": 19,
+          "goal_difference": -5,
+          "points": 10
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": "20787",
+            "name": "St. Louis City"
+          },
+          "played": 9,
+          "win": 1,
+          "draw": 3,
+          "loss": 5,
+          "goal_for": 9,
+          "goal_against": 16,
+          "goal_difference": -7,
+          "points": 6
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": "1611",
+            "name": "Sporting Kansas City"
+          },
+          "played": 9,
+          "win": 1,
+          "draw": 1,
+          "loss": 7,
+          "goal_for": 7,
+          "goal_against": 25,
+          "goal_difference": -18,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "group_name": "Eastern Conference",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "id": "9569",
+            "name": "Nashville SC"
+          },
+          "played": 9,
+          "win": 7,
+          "draw": 1,
+          "loss": 1,
+          "goal_for": 21,
+          "goal_against": 6,
+          "goal_difference": 15,
+          "points": 22
+        },
+        {
+          "position": 2,
+          "team": {
+            "id": "9568",
+            "name": "Inter Miami"
+          },
+          "played": 10,
+          "win": 5,
+          "draw": 4,
+          "loss": 1,
+          "goal_for": 19,
+          "goal_against": 15,
+          "goal_difference": 4,
+          "points": 19
+        },
+        {
+          "position": 3,
+          "team": {
+            "id": "1607",
+            "name": "Chicago Fire"
+          },
+          "played": 9,
+          "win": 5,
+          "draw": 2,
+          "loss": 2,
+          "goal_for": 17,
+          "goal_against": 8,
+          "goal_difference": 9,
+          "points": 17
+        },
+        {
+          "position": 4,
+          "team": {
+            "id": "1609",
+            "name": "New England Revolution"
+          },
+          "played": 9,
+          "win": 5,
+          "draw": 1,
+          "loss": 3,
+          "goal_for": 17,
+          "goal_against": 12,
+          "goal_difference": 5,
+          "points": 16
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": "18310",
+            "name": "Charlotte"
+          },
+          "played": 10,
+          "win": 4,
+          "draw": 2,
+          "loss": 4,
+          "goal_for": 18,
+          "goal_against": 18,
+          "goal_difference": 0,
+          "points": 14
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": "1601",
+            "name": "Toronto FC"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 4,
+          "loss": 3,
+          "goal_for": 17,
+          "goal_against": 19,
+          "goal_difference": -2,
+          "points": 13
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": "1604",
+            "name": "New York City FC"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "loss": 4,
+          "goal_for": 19,
+          "goal_against": 16,
+          "goal_difference": 3,
+          "points": 12
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": "1613",
+            "name": "Columbus Crew"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "loss": 4,
+          "goal_for": 14,
+          "goal_against": 13,
+          "goal_difference": 1,
+          "points": 12
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": "2242",
+            "name": "FC Cincinnati"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "loss": 4,
+          "goal_for": 19,
+          "goal_against": 23,
+          "goal_difference": -4,
+          "points": 12
+        },
+        {
+          "position": 10,
+          "team": {
+            "id": "1615",
+            "name": "DC United"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "loss": 4,
+          "goal_for": 11,
+          "goal_against": 15,
+          "goal_difference": -4,
+          "points": 12
+        },
+        {
+          "position": 11,
+          "team": {
+            "id": "1602",
+            "name": "New York Red Bulls"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "loss": 4,
+          "goal_for": 16,
+          "goal_against": 25,
+          "goal_difference": -9,
+          "points": 12
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": "1614",
+            "name": "CF Montreal"
+          },
+          "played": 9,
+          "win": 3,
+          "draw": 0,
+          "loss": 6,
+          "goal_for": 13,
+          "goal_against": 20,
+          "goal_difference": -7,
+          "points": 9
+        },
+        {
+          "position": 13,
+          "team": {
+            "id": "1608",
+            "name": "Atlanta United FC"
+          },
+          "played": 10,
+          "win": 2,
+          "draw": 1,
+          "loss": 7,
+          "goal_for": 9,
+          "goal_against": 17,
+          "goal_difference": -8,
+          "points": 7
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": "1598",
+            "name": "Orlando City SC"
+          },
+          "played": 10,
+          "win": 2,
+          "draw": 1,
+          "loss": 7,
+          "goal_for": 12,
+          "goal_against": 29,
+          "goal_difference": -17,
+          "points": 7
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": "1599",
+            "name": "Philadelphia Union"
+          },
+          "played": 10,
+          "win": 1,
+          "draw": 2,
+          "loss": 7,
+          "goal_for": 9,
+          "goal_against": 17,
+          "goal_difference": -8,
+          "points": 5
+        }
+      ]
+    }
+  ]
+}
