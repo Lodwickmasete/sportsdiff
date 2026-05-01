@@ -1,6 +1,6 @@
 {
   "group_name": "Division 1",
-  "updated_at": "2026-05-01T15:00:36",
+  "updated_at": "2026-05-01T19:00:36",
   "table": [
     {
       "position": 1,
@@ -50,6 +50,21 @@
     {
       "position": 4,
       "team": {
+        "id": "19997",
+        "name": "Casric Stars"
+      },
+      "played": 28,
+      "win": 12,
+      "draw": 10,
+      "loss": 6,
+      "goal_for": 41,
+      "goal_against": 26,
+      "goal_difference": 15,
+      "points": 46
+    },
+    {
+      "position": 5,
+      "team": {
         "id": "2697",
         "name": "Cape Town City"
       },
@@ -63,22 +78,22 @@
       "points": 45
     },
     {
-      "position": 5,
+      "position": 6,
       "team": {
-        "id": "19997",
-        "name": "Casric Stars"
+        "id": "24758",
+        "name": "Highbury"
       },
-      "played": 27,
+      "played": 28,
       "win": 11,
-      "draw": 10,
-      "loss": 6,
-      "goal_for": 39,
-      "goal_against": 26,
-      "goal_difference": 13,
-      "points": 43
+      "draw": 6,
+      "loss": 11,
+      "goal_for": 28,
+      "goal_against": 28,
+      "goal_difference": 0,
+      "points": 39
     },
     {
-      "position": 6,
+      "position": 7,
       "team": {
         "id": "22235",
         "name": "Upington City"
@@ -91,21 +106,6 @@
       "goal_against": 31,
       "goal_difference": 4,
       "points": 37
-    },
-    {
-      "position": 7,
-      "team": {
-        "id": "24758",
-        "name": "Highbury"
-      },
-      "played": 27,
-      "win": 10,
-      "draw": 6,
-      "loss": 11,
-      "goal_for": 25,
-      "goal_against": 27,
-      "goal_difference": -2,
-      "points": 36
     },
     {
       "position": 8,
@@ -203,13 +203,13 @@
         "id": "26397",
         "name": "Midlands Wanderers"
       },
-      "played": 26,
+      "played": 27,
       "win": 8,
       "draw": 7,
-      "loss": 11,
-      "goal_for": 23,
-      "goal_against": 33,
-      "goal_difference": -10,
+      "loss": 12,
+      "goal_for": 24,
+      "goal_against": 36,
+      "goal_difference": -12,
       "points": 31
     },
     {
@@ -233,13 +233,13 @@
         "id": "2688",
         "name": "Baroka FC"
       },
-      "played": 27,
+      "played": 28,
       "win": 4,
       "draw": 7,
-      "loss": 16,
+      "loss": 17,
       "goal_for": 20,
-      "goal_against": 40,
-      "goal_difference": -20,
+      "goal_against": 42,
+      "goal_difference": -22,
       "points": 19
     }
   ]
