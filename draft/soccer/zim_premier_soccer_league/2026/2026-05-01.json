@@ -1,6 +1,6 @@
 {
   "group_name": "Premier Soccer League 2026",
-  "updated_at": "2026-05-01T15:00:51",
+  "updated_at": "2026-05-01T19:00:51",
   "table": [
     {
       "position": 1,
@@ -20,6 +20,21 @@
     {
       "position": 2,
       "team": {
+        "id": "25735",
+        "name": "Scotland Mabvuku"
+      },
+      "played": 10,
+      "win": 4,
+      "draw": 6,
+      "loss": 0,
+      "goal_for": 11,
+      "goal_against": 3,
+      "goal_difference": 8,
+      "points": 18
+    },
+    {
+      "position": 3,
+      "team": {
         "id": "27274",
         "name": "Hardrock"
       },
@@ -31,21 +46,6 @@
       "goal_against": 5,
       "goal_difference": 5,
       "points": 18
-    },
-    {
-      "position": 3,
-      "team": {
-        "id": "25735",
-        "name": "Scotland Mabvuku"
-      },
-      "played": 9,
-      "win": 4,
-      "draw": 5,
-      "loss": 0,
-      "goal_for": 11,
-      "goal_against": 3,
-      "goal_difference": 8,
-      "points": 17
     },
     {
       "position": 4,
@@ -98,14 +98,14 @@
         "id": "21055",
         "name": "Simba Bhora"
       },
-      "played": 9,
+      "played": 10,
       "win": 3,
-      "draw": 4,
+      "draw": 5,
       "loss": 2,
       "goal_for": 7,
       "goal_against": 4,
       "goal_difference": 3,
-      "points": 13
+      "points": 14
     },
     {
       "position": 8,
