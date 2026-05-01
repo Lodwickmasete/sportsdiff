@@ -1,6 +1,6 @@
 {
   "group_name": "Chinese Super League",
-  "updated_at": "2026-05-01T15:00:17",
+  "updated_at": "2026-05-01T19:00:17",
   "table": [
     {
       "position": 1,
@@ -8,14 +8,14 @@
         "id": "5648",
         "name": "Chengdu Better City"
       },
-      "played": 8,
-      "win": 7,
+      "played": 9,
+      "win": 8,
       "draw": 1,
       "loss": 0,
-      "goal_for": 23,
-      "goal_against": 7,
-      "goal_difference": 16,
-      "points": 22
+      "goal_for": 26,
+      "goal_against": 9,
+      "goal_difference": 17,
+      "points": 25
     },
     {
       "position": 2,
@@ -23,13 +23,13 @@
         "id": "21262",
         "name": "Chongqing Tongliang Long"
       },
-      "played": 8,
+      "played": 9,
       "win": 5,
       "draw": 3,
-      "loss": 0,
+      "loss": 1,
       "goal_for": 12,
-      "goal_against": 6,
-      "goal_difference": 6,
+      "goal_against": 7,
+      "goal_difference": 5,
       "points": 18
     },
     {
@@ -38,14 +38,14 @@
         "id": "21263",
         "name": "Dalian Zhixing"
       },
-      "played": 8,
-      "win": 5,
+      "played": 9,
+      "win": 6,
       "draw": 0,
       "loss": 3,
-      "goal_for": 14,
+      "goal_for": 15,
       "goal_against": 14,
-      "goal_difference": 0,
-      "points": 15
+      "goal_difference": 1,
+      "points": 18
     },
     {
       "position": 4,
@@ -68,13 +68,13 @@
         "id": "833",
         "name": "Shanghai Shenhua"
       },
-      "played": 8,
+      "played": 9,
       "win": 6,
       "draw": 2,
-      "loss": 0,
-      "goal_for": 19,
-      "goal_against": 8,
-      "goal_difference": 11,
+      "loss": 1,
+      "goal_for": 21,
+      "goal_against": 11,
+      "goal_difference": 10,
       "points": 10
     },
     {
@@ -98,42 +98,42 @@
         "id": "844",
         "name": "Shandong Luneng"
       },
-      "played": 8,
+      "played": 9,
       "win": 4,
-      "draw": 1,
+      "draw": 2,
       "loss": 3,
-      "goal_for": 11,
-      "goal_against": 13,
+      "goal_for": 12,
+      "goal_against": 14,
       "goal_difference": -2,
-      "points": 7
+      "points": 8
     },
     {
       "position": 8,
       "team": {
-        "id": "5684",
-        "name": "Shenyang Urban"
+        "id": "17265",
+        "name": "Qingdao Youth Island"
       },
-      "played": 8,
-      "win": 2,
-      "draw": 1,
-      "loss": 5,
-      "goal_for": 7,
-      "goal_against": 11,
-      "goal_difference": -4,
-      "points": 7
+      "played": 9,
+      "win": 1,
+      "draw": 5,
+      "loss": 3,
+      "goal_for": 6,
+      "goal_against": 14,
+      "goal_difference": -8,
+      "points": 8
     },
     {
       "position": 9,
       "team": {
-        "id": "17265",
-        "name": "Qingdao Youth Island"
+        "id": "5684",
+        "name": "Shenyang Urban"
       },
-      "played": 8,
-      "win": 1,
-      "draw": 4,
-      "loss": 3,
-      "goal_for": 5,
-      "goal_against": 13,
+      "played": 9,
+      "win": 2,
+      "draw": 1,
+      "loss": 6,
+      "goal_for": 7,
+      "goal_against": 15,
       "goal_difference": -8,
       "points": 7
     },
@@ -155,6 +155,21 @@
     {
       "position": 11,
       "team": {
+        "id": "840",
+        "name": "Henan Jianye"
+      },
+      "played": 9,
+      "win": 3,
+      "draw": 2,
+      "loss": 4,
+      "goal_for": 10,
+      "goal_against": 10,
+      "goal_difference": 0,
+      "points": 5
+    },
+    {
+      "position": 12,
+      "team": {
         "id": "830",
         "name": "Beijing Guoan"
       },
@@ -168,7 +183,7 @@
       "points": 3
     },
     {
-      "position": 12,
+      "position": 13,
       "team": {
         "id": "848",
         "name": "Hangzhou Greentown"
@@ -183,34 +198,19 @@
       "points": 3
     },
     {
-      "position": 13,
-      "team": {
-        "id": "840",
-        "name": "Henan Jianye"
-      },
-      "played": 8,
-      "win": 2,
-      "draw": 2,
-      "loss": 4,
-      "goal_for": 6,
-      "goal_against": 10,
-      "goal_difference": -4,
-      "points": 2
-    },
-    {
       "position": 14,
       "team": {
         "id": "5695",
         "name": "Wuhan Three Towns"
       },
-      "played": 8,
+      "played": 9,
       "win": 2,
-      "draw": 1,
+      "draw": 2,
       "loss": 5,
-      "goal_for": 10,
-      "goal_against": 16,
+      "goal_for": 12,
+      "goal_against": 18,
       "goal_difference": -6,
-      "points": 2
+      "points": 3
     },
     {
       "position": 15,
@@ -233,14 +233,14 @@
         "id": "837",
         "name": "Tianjin Teda"
       },
-      "played": 8,
+      "played": 9,
       "win": 2,
-      "draw": 2,
+      "draw": 3,
       "loss": 4,
-      "goal_for": 11,
-      "goal_against": 12,
+      "goal_for": 13,
+      "goal_against": 14,
       "goal_difference": -1,
-      "points": -2
+      "points": -1
     }
   ]
 }
