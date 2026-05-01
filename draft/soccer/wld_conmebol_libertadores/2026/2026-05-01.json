@@ -1,6 +1,6 @@
 {
   "group_name": "CONMEBOL Libertadores 2026, G",
-  "updated_at": "2026-05-01T03:00:06",
+  "updated_at": "2026-05-01T11:00:06",
   "table": [
     {
       "position": 1,
@@ -23,14 +23,14 @@
         "id": "473",
         "name": "Independ. Rivadavia"
       },
-      "played": 2,
-      "win": 2,
+      "played": 3,
+      "win": 3,
       "draw": 0,
       "loss": 0,
-      "goal_for": 3,
-      "goal_against": 1,
-      "goal_difference": 2,
-      "points": 6
+      "goal_for": 7,
+      "goal_against": 2,
+      "goal_difference": 5,
+      "points": 9
     },
     {
       "position": 1,
@@ -38,29 +38,14 @@
         "id": "131",
         "name": "Corinthians"
       },
-      "played": 2,
-      "win": 2,
+      "played": 3,
+      "win": 3,
       "draw": 0,
       "loss": 0,
-      "goal_for": 4,
+      "goal_for": 6,
       "goal_against": 0,
-      "goal_difference": 4,
-      "points": 6
-    },
-    {
-      "position": 1,
-      "team": {
-        "id": "1142",
-        "name": "Deportes Tolima"
-      },
-      "played": 3,
-      "win": 1,
-      "draw": 1,
-      "loss": 1,
-      "goal_for": 4,
-      "goal_against": 3,
-      "goal_difference": 1,
-      "points": 4
+      "goal_difference": 6,
+      "points": 9
     },
     {
       "position": 1,
@@ -76,6 +61,21 @@
       "goal_against": 2,
       "goal_difference": 5,
       "points": 7
+    },
+    {
+      "position": 1,
+      "team": {
+        "id": "1142",
+        "name": "Deportes Tolima"
+      },
+      "played": 3,
+      "win": 1,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 4,
+      "goal_against": 3,
+      "goal_difference": 1,
+      "points": 4
     },
     {
       "position": 1,
@@ -140,21 +140,6 @@
     {
       "position": 2,
       "team": {
-        "id": "2813",
-        "name": "Deportivo La Guaira"
-      },
-      "played": 2,
-      "win": 0,
-      "draw": 2,
-      "loss": 0,
-      "goal_for": 1,
-      "goal_against": 1,
-      "goal_difference": 0,
-      "points": 2
-    },
-    {
-      "position": 2,
-      "team": {
         "id": "121",
         "name": "Palmeiras"
       },
@@ -166,6 +151,21 @@
       "goal_against": 3,
       "goal_difference": 1,
       "points": 5
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "3702",
+        "name": "Bolívar"
+      },
+      "played": 3,
+      "win": 1,
+      "draw": 1,
+      "loss": 1,
+      "goal_for": 3,
+      "goal_against": 2,
+      "goal_difference": 1,
+      "points": 4
     },
     {
       "position": 2,
@@ -245,21 +245,6 @@
     {
       "position": 3,
       "team": {
-        "id": "3702",
-        "name": "Bolívar"
-      },
-      "played": 2,
-      "win": 0,
-      "draw": 1,
-      "loss": 1,
-      "goal_for": 1,
-      "goal_against": 2,
-      "goal_difference": -1,
-      "points": 1
-    },
-    {
-      "position": 3,
-      "team": {
         "id": "2840",
         "name": "UCV"
       },
@@ -271,6 +256,21 @@
       "goal_against": 7,
       "goal_difference": -3,
       "points": 3
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "2813",
+        "name": "Deportivo La Guaira"
+      },
+      "played": 3,
+      "win": 0,
+      "draw": 2,
+      "loss": 1,
+      "goal_for": 2,
+      "goal_against": 5,
+      "goal_difference": -3,
+      "points": 2
     },
     {
       "position": 3,
@@ -308,13 +308,13 @@
         "id": "2348",
         "name": "Penarol"
       },
-      "played": 2,
+      "played": 3,
       "win": 0,
       "draw": 1,
-      "loss": 1,
+      "loss": 2,
       "goal_for": 2,
-      "goal_against": 3,
-      "goal_difference": -1,
+      "goal_against": 5,
+      "goal_difference": -3,
       "points": 1
     },
     {
@@ -353,14 +353,14 @@
         "id": "1128",
         "name": "Independiente Medellin"
       },
-      "played": 2,
-      "win": 0,
+      "played": 3,
+      "win": 1,
       "draw": 1,
       "loss": 1,
-      "goal_for": 2,
+      "goal_for": 3,
       "goal_against": 5,
-      "goal_difference": -3,
-      "points": 1
+      "goal_difference": -2,
+      "points": 4
     },
     {
       "position": 4,
@@ -383,13 +383,13 @@
         "id": "124",
         "name": "Fluminense"
       },
-      "played": 2,
+      "played": 3,
       "win": 0,
       "draw": 1,
-      "loss": 1,
+      "loss": 2,
       "goal_for": 1,
-      "goal_against": 2,
-      "goal_difference": -1,
+      "goal_against": 4,
+      "goal_difference": -3,
       "points": 1
     },
     {
@@ -473,13 +473,13 @@
         "id": "10013",
         "name": "Cusco"
       },
-      "played": 2,
+      "played": 3,
       "win": 0,
       "draw": 0,
-      "loss": 2,
+      "loss": 3,
       "goal_for": 1,
-      "goal_against": 4,
-      "goal_difference": -3,
+      "goal_against": 5,
+      "goal_difference": -4,
       "points": 0
     }
   ]
