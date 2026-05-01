@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T15:00:22",
+  "updated_at": "2026-05-01T19:00:22",
   "groups": [
     {
       "group_name": "Super Lig ",
@@ -115,14 +115,14 @@
             "id": "607",
             "name": "Konyaspor"
           },
-          "played": 31,
+          "played": 32,
           "win": 10,
-          "draw": 10,
+          "draw": 11,
           "loss": 11,
-          "goal_for": 40,
-          "goal_against": 42,
+          "goal_for": 41,
+          "goal_against": 43,
           "goal_difference": -2,
-          "points": 40
+          "points": 41
         },
         {
           "position": 9,
@@ -130,14 +130,14 @@
             "id": "1007",
             "name": "Rizespor"
           },
-          "played": 31,
+          "played": 32,
           "win": 9,
-          "draw": 10,
+          "draw": 11,
           "loss": 12,
-          "goal_for": 41,
-          "goal_against": 44,
+          "goal_for": 42,
+          "goal_against": 45,
           "goal_difference": -3,
-          "points": 37
+          "points": 38
         },
         {
           "position": 10,
