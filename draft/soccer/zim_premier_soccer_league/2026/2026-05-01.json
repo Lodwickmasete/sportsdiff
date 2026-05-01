@@ -1,6 +1,6 @@
 {
   "group_name": "Premier Soccer League 2026",
-  "updated_at": "2026-05-01T19:00:51",
+  "updated_at": "2026-05-01T23:50:51",
   "table": [
     {
       "position": 1,
@@ -20,21 +20,6 @@
     {
       "position": 2,
       "team": {
-        "id": "25735",
-        "name": "Scotland Mabvuku"
-      },
-      "played": 10,
-      "win": 4,
-      "draw": 6,
-      "loss": 0,
-      "goal_for": 11,
-      "goal_against": 3,
-      "goal_difference": 8,
-      "points": 18
-    },
-    {
-      "position": 3,
-      "team": {
         "id": "27274",
         "name": "Hardrock"
       },
@@ -46,6 +31,21 @@
       "goal_against": 5,
       "goal_difference": 5,
       "points": 18
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "25735",
+        "name": "Scotland Mabvuku"
+      },
+      "played": 9,
+      "win": 4,
+      "draw": 5,
+      "loss": 0,
+      "goal_for": 11,
+      "goal_against": 3,
+      "goal_difference": 8,
+      "points": 17
     },
     {
       "position": 4,
@@ -83,14 +83,14 @@
         "id": "5223",
         "name": "Herentals"
       },
-      "played": 9,
+      "played": 10,
       "win": 5,
-      "draw": 1,
+      "draw": 2,
       "loss": 3,
-      "goal_for": 11,
-      "goal_against": 9,
+      "goal_for": 12,
+      "goal_against": 10,
       "goal_difference": 2,
-      "points": 16
+      "points": 17
     },
     {
       "position": 7,
@@ -98,14 +98,14 @@
         "id": "21055",
         "name": "Simba Bhora"
       },
-      "played": 10,
+      "played": 9,
       "win": 3,
-      "draw": 5,
+      "draw": 4,
       "loss": 2,
       "goal_for": 7,
       "goal_against": 4,
       "goal_difference": 3,
-      "points": 14
+      "points": 13
     },
     {
       "position": 8,
@@ -140,6 +140,21 @@
     {
       "position": 10,
       "team": {
+        "id": "5224",
+        "name": "Highlanders"
+      },
+      "played": 10,
+      "win": 1,
+      "draw": 8,
+      "loss": 1,
+      "goal_for": 8,
+      "goal_against": 7,
+      "goal_difference": 1,
+      "points": 11
+    },
+    {
+      "position": 11,
+      "team": {
         "id": "5226",
         "name": "Kariba"
       },
@@ -153,7 +168,7 @@
       "points": 11
     },
     {
-      "position": 11,
+      "position": 12,
       "team": {
         "id": "5230",
         "name": "Platinum"
@@ -166,21 +181,6 @@
       "goal_against": 10,
       "goal_difference": -1,
       "points": 11
-    },
-    {
-      "position": 12,
-      "team": {
-        "id": "5224",
-        "name": "Highlanders"
-      },
-      "played": 9,
-      "win": 1,
-      "draw": 7,
-      "loss": 1,
-      "goal_for": 7,
-      "goal_against": 6,
-      "goal_difference": 1,
-      "points": 10
     },
     {
       "position": 13,
