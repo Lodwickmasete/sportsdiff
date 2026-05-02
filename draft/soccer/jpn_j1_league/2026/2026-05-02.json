@@ -1,11 +1,26 @@
 {
-  "updated_at": "2026-05-02T03:01:11",
+  "updated_at": "2026-05-02T11:01:08",
   "groups": [
     {
       "group_name": "East",
       "table": [
         {
           "position": 1,
+          "team": {
+            "id": "292",
+            "name": "FC Tokyo"
+          },
+          "played": 14,
+          "win": 11,
+          "draw": 0,
+          "loss": 3,
+          "goal_for": 29,
+          "goal_against": 13,
+          "goal_difference": 16,
+          "points": 32
+        },
+        {
+          "position": 2,
           "team": {
             "id": "290",
             "name": "Kashima"
@@ -18,21 +33,6 @@
           "goal_against": 9,
           "goal_difference": 12,
           "points": 32
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": "292",
-            "name": "FC Tokyo"
-          },
-          "played": 13,
-          "win": 10,
-          "draw": 0,
-          "loss": 3,
-          "goal_for": 27,
-          "goal_against": 13,
-          "goal_difference": 14,
-          "points": 29
         },
         {
           "position": 3,
@@ -70,13 +70,13 @@
             "id": "294",
             "name": "Kawasaki Frontale"
           },
-          "played": 13,
+          "played": 14,
           "win": 7,
           "draw": 0,
-          "loss": 6,
+          "loss": 7,
           "goal_for": 20,
-          "goal_against": 23,
-          "goal_difference": -3,
+          "goal_against": 25,
+          "goal_difference": -5,
           "points": 20
         },
         {
@@ -85,17 +85,32 @@
             "id": "305",
             "name": "Mito Hollyhock"
           },
-          "played": 13,
-          "win": 5,
+          "played": 14,
+          "win": 6,
           "draw": 0,
           "loss": 8,
-          "goal_for": 19,
-          "goal_against": 27,
-          "goal_difference": -8,
-          "points": 16
+          "goal_for": 21,
+          "goal_against": 28,
+          "goal_difference": -7,
+          "points": 18
         },
         {
           "position": 7,
+          "team": {
+            "id": "296",
+            "name": "Yokohama F. Marinos"
+          },
+          "played": 14,
+          "win": 5,
+          "draw": 0,
+          "loss": 9,
+          "goal_for": 21,
+          "goal_against": 26,
+          "goal_difference": -5,
+          "points": 16
+        },
+        {
+          "position": 8,
           "team": {
             "id": "287",
             "name": "Urawa"
@@ -107,21 +122,6 @@
           "goal_for": 18,
           "goal_against": 19,
           "goal_difference": -1,
-          "points": 15
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": "296",
-            "name": "Yokohama F. Marinos"
-          },
-          "played": 13,
-          "win": 5,
-          "draw": 0,
-          "loss": 8,
-          "goal_for": 20,
-          "goal_against": 24,
-          "goal_difference": -4,
           "points": 15
         },
         {
@@ -210,32 +210,62 @@
             "id": "282",
             "name": "Sanfrecce Hiroshima"
           },
-          "played": 13,
+          "played": 14,
           "win": 7,
           "draw": 0,
-          "loss": 6,
+          "loss": 7,
           "goal_for": 21,
-          "goal_against": 18,
-          "goal_difference": 3,
+          "goal_against": 19,
+          "goal_difference": 2,
           "points": 20
         },
         {
           "position": 5,
           "team": {
-            "id": "302",
-            "name": "Kyoto Sanga"
+            "id": "283",
+            "name": "Shimizu S-pulse"
           },
-          "played": 12,
-          "win": 7,
+          "played": 14,
+          "win": 6,
           "draw": 0,
-          "loss": 5,
-          "goal_for": 19,
-          "goal_against": 16,
-          "goal_difference": 3,
-          "points": 19
+          "loss": 8,
+          "goal_for": 18,
+          "goal_against": 19,
+          "goal_difference": -1,
+          "points": 20
         },
         {
           "position": 6,
+          "team": {
+            "id": "310",
+            "name": "Fagiano Okayama"
+          },
+          "played": 14,
+          "win": 6,
+          "draw": 0,
+          "loss": 8,
+          "goal_for": 18,
+          "goal_against": 24,
+          "goal_difference": -6,
+          "points": 20
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": "302",
+            "name": "Kyoto Sanga"
+          },
+          "played": 13,
+          "win": 7,
+          "draw": 0,
+          "loss": 6,
+          "goal_for": 20,
+          "goal_against": 18,
+          "goal_difference": 2,
+          "points": 19
+        },
+        {
+          "position": 8,
           "team": {
             "id": "291",
             "name": "Cerezo Osaka"
@@ -248,36 +278,6 @@
           "goal_against": 13,
           "goal_difference": 2,
           "points": 19
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": "283",
-            "name": "Shimizu S-pulse"
-          },
-          "played": 13,
-          "win": 5,
-          "draw": 0,
-          "loss": 8,
-          "goal_for": 16,
-          "goal_against": 18,
-          "goal_difference": -2,
-          "points": 17
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": "310",
-            "name": "Fagiano Okayama"
-          },
-          "played": 13,
-          "win": 5,
-          "draw": 0,
-          "loss": 8,
-          "goal_for": 17,
-          "goal_against": 24,
-          "goal_difference": -7,
-          "points": 17
         },
         {
           "position": 9,
