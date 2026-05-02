@@ -1,6 +1,6 @@
 {
   "group_name": "Primeira Liga",
-  "updated_at": "2026-05-02T19:01:06",
+  "updated_at": "2026-05-02T23:51:06",
   "table": [
     {
       "position": 1,
@@ -23,14 +23,14 @@
         "id": "211",
         "name": "Benfica"
       },
-      "played": 31,
+      "played": 32,
       "win": 22,
-      "draw": 9,
+      "draw": 10,
       "loss": 0,
-      "goal_for": 67,
-      "goal_against": 20,
+      "goal_for": 69,
+      "goal_against": 22,
       "goal_difference": 47,
-      "points": 75
+      "points": 76
     },
     {
       "position": 3,
@@ -68,14 +68,14 @@
         "id": "242",
         "name": "Famalicao"
       },
-      "played": 31,
+      "played": 32,
       "win": 14,
-      "draw": 9,
+      "draw": 10,
       "loss": 8,
-      "goal_for": 39,
-      "goal_against": 27,
+      "goal_for": 41,
+      "goal_against": 29,
       "goal_difference": 12,
-      "points": 51
+      "points": 52
     },
     {
       "position": 6,
@@ -113,14 +113,14 @@
         "id": "215",
         "name": "Moreirense"
       },
-      "played": 31,
-      "win": 11,
+      "played": 32,
+      "win": 12,
       "draw": 6,
       "loss": 14,
-      "goal_for": 34,
-      "goal_against": 45,
-      "goal_difference": -11,
-      "points": 39
+      "goal_for": 37,
+      "goal_against": 47,
+      "goal_difference": -10,
+      "points": 42
     },
     {
       "position": 9,
@@ -158,14 +158,14 @@
         "id": "240",
         "name": "Arouca"
       },
-      "played": 31,
+      "played": 32,
       "win": 10,
-      "draw": 5,
+      "draw": 6,
       "loss": 16,
-      "goal_for": 39,
-      "goal_against": 60,
+      "goal_for": 41,
+      "goal_against": 62,
       "goal_difference": -21,
-      "points": 35
+      "points": 36
     },
     {
       "position": 12,
@@ -188,14 +188,14 @@
         "id": "227",
         "name": "Santa Clara"
       },
-      "played": 31,
+      "played": 32,
       "win": 8,
-      "draw": 8,
+      "draw": 9,
       "loss": 15,
-      "goal_for": 28,
-      "goal_against": 38,
+      "goal_for": 30,
+      "goal_against": 40,
       "goal_difference": -10,
-      "points": 32
+      "points": 33
     },
     {
       "position": 14,
@@ -203,13 +203,13 @@
         "id": "225",
         "name": "Nacional"
       },
-      "played": 31,
+      "played": 32,
       "win": 8,
       "draw": 7,
-      "loss": 16,
-      "goal_for": 34,
-      "goal_against": 41,
-      "goal_difference": -7,
+      "loss": 17,
+      "goal_for": 35,
+      "goal_against": 43,
+      "goal_difference": -8,
       "points": 31
     },
     {
@@ -218,13 +218,13 @@
         "id": "15130",
         "name": "Estrela"
       },
-      "played": 31,
+      "played": 32,
       "win": 6,
       "draw": 10,
-      "loss": 15,
-      "goal_for": 34,
-      "goal_against": 51,
-      "goal_difference": -17,
+      "loss": 16,
+      "goal_for": 36,
+      "goal_against": 54,
+      "goal_difference": -18,
       "points": 28
     },
     {
@@ -263,14 +263,14 @@
         "id": "21595",
         "name": "AVS"
       },
-      "played": 31,
-      "win": 1,
+      "played": 32,
+      "win": 2,
       "draw": 11,
       "loss": 19,
-      "goal_for": 22,
-      "goal_against": 65,
-      "goal_difference": -43,
-      "points": 14
+      "goal_for": 24,
+      "goal_against": 66,
+      "goal_difference": -42,
+      "points": 17
     }
   ]
 }
