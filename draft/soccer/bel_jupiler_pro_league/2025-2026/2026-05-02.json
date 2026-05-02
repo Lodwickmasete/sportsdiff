@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T19:00:14",
+  "updated_at": "2026-05-02T23:50:14",
   "groups": [
     {
       "group_name": "Pro League ",
@@ -180,14 +180,14 @@
             "id": "261",
             "name": "KVC Westerlo"
           },
-          "played": 35,
+          "played": 36,
           "win": 13,
-          "draw": 9,
+          "draw": 10,
           "loss": 13,
-          "goal_for": 45,
-          "goal_against": 47,
+          "goal_for": 48,
+          "goal_against": 50,
           "goal_difference": -2,
-          "points": 29
+          "points": 30
         },
         {
           "position": 3,
@@ -240,14 +240,14 @@
             "id": "260",
             "name": "OH Leuven"
           },
-          "played": 35,
+          "played": 36,
           "win": 9,
-          "draw": 8,
+          "draw": 9,
           "loss": 18,
-          "goal_for": 33,
-          "goal_against": 52,
+          "goal_for": 36,
+          "goal_against": 55,
           "goal_difference": -19,
-          "points": 18
+          "points": 19
         }
       ]
     }
