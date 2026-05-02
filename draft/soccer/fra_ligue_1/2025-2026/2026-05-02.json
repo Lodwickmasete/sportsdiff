@@ -1,6 +1,6 @@
 {
   "group_name": "Ligue 1 ",
-  "updated_at": "2026-05-02T15:00:53",
+  "updated_at": "2026-05-02T19:00:53",
   "table": [
     {
       "position": 1,
@@ -35,21 +35,6 @@
     {
       "position": 3,
       "team": {
-        "id": "80",
-        "name": "Lyon"
-      },
-      "played": 31,
-      "win": 17,
-      "draw": 6,
-      "loss": 8,
-      "goal_for": 48,
-      "goal_against": 32,
-      "goal_difference": 16,
-      "points": 57
-    },
-    {
-      "position": 4,
-      "team": {
         "id": "79",
         "name": "Lille"
       },
@@ -59,6 +44,21 @@
       "loss": 8,
       "goal_for": 50,
       "goal_against": 34,
+      "goal_difference": 16,
+      "points": 57
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "80",
+        "name": "Lyon"
+      },
+      "played": 31,
+      "win": 17,
+      "draw": 6,
+      "loss": 8,
+      "goal_for": 48,
+      "goal_against": 32,
       "goal_difference": 16,
       "points": 57
     },
@@ -83,13 +83,13 @@
         "id": "81",
         "name": "Marseille"
       },
-      "played": 31,
+      "played": 32,
       "win": 16,
       "draw": 5,
-      "loss": 10,
+      "loss": 11,
       "goal_for": 59,
-      "goal_against": 41,
-      "goal_difference": 18,
+      "goal_against": 44,
+      "goal_difference": 15,
       "points": 53
     },
     {
@@ -248,14 +248,14 @@
         "id": "83",
         "name": "Nantes"
       },
-      "played": 31,
-      "win": 4,
+      "played": 32,
+      "win": 5,
       "draw": 8,
       "loss": 19,
-      "goal_for": 26,
+      "goal_for": 29,
       "goal_against": 51,
-      "goal_difference": -25,
-      "points": 20
+      "goal_difference": -22,
+      "points": 23
     },
     {
       "position": 18,
