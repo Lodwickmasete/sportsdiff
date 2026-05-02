@@ -1,6 +1,6 @@
 {
   "group_name": "Primera División",
-  "updated_at": "2026-05-02T19:00:12",
+  "updated_at": "2026-05-02T23:50:12",
   "table": [
     {
       "position": 1,
@@ -53,14 +53,14 @@
         "id": "530",
         "name": "Atletico Madrid"
       },
-      "played": 33,
-      "win": 18,
+      "played": 34,
+      "win": 19,
       "draw": 6,
       "loss": 9,
-      "goal_for": 56,
+      "goal_for": 58,
       "goal_against": 37,
-      "goal_difference": 19,
-      "points": 60
+      "goal_difference": 21,
+      "points": 63
     },
     {
       "position": 5,
@@ -80,21 +80,6 @@
     {
       "position": 6,
       "team": {
-        "id": "546",
-        "name": "Getafe"
-      },
-      "played": 33,
-      "win": 13,
-      "draw": 5,
-      "loss": 15,
-      "goal_for": 28,
-      "goal_against": 34,
-      "goal_difference": -6,
-      "points": 44
-    },
-    {
-      "position": 7,
-      "team": {
         "id": "538",
         "name": "Celta Vigo"
       },
@@ -108,7 +93,37 @@
       "points": 44
     },
     {
+      "position": 7,
+      "team": {
+        "id": "546",
+        "name": "Getafe"
+      },
+      "played": 33,
+      "win": 13,
+      "draw": 5,
+      "loss": 15,
+      "goal_for": 28,
+      "goal_against": 34,
+      "goal_difference": -6,
+      "points": 44
+    },
+    {
       "position": 8,
+      "team": {
+        "id": "531",
+        "name": "Athletic Club"
+      },
+      "played": 34,
+      "win": 13,
+      "draw": 5,
+      "loss": 16,
+      "goal_for": 40,
+      "goal_against": 50,
+      "goal_difference": -10,
+      "points": 44
+    },
+    {
+      "position": 9,
       "team": {
         "id": "548",
         "name": "Real Sociedad"
@@ -123,7 +138,7 @@
       "points": 43
     },
     {
-      "position": 9,
+      "position": 10,
       "team": {
         "id": "727",
         "name": "Osasuna"
@@ -136,21 +151,6 @@
       "goal_against": 40,
       "goal_difference": -1,
       "points": 42
-    },
-    {
-      "position": 10,
-      "team": {
-        "id": "531",
-        "name": "Athletic Club"
-      },
-      "played": 33,
-      "win": 12,
-      "draw": 5,
-      "loss": 16,
-      "goal_for": 36,
-      "goal_against": 48,
-      "goal_difference": -12,
-      "points": 41
     },
     {
       "position": 11,
@@ -170,21 +170,6 @@
     {
       "position": 12,
       "team": {
-        "id": "532",
-        "name": "Valencia"
-      },
-      "played": 33,
-      "win": 10,
-      "draw": 9,
-      "loss": 14,
-      "goal_for": 37,
-      "goal_against": 48,
-      "goal_difference": -11,
-      "points": 39
-    },
-    {
-      "position": 13,
-      "team": {
         "id": "540",
         "name": "Espanyol"
       },
@@ -195,6 +180,21 @@
       "goal_for": 37,
       "goal_against": 49,
       "goal_difference": -12,
+      "points": 39
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "532",
+        "name": "Valencia"
+      },
+      "played": 34,
+      "win": 10,
+      "draw": 9,
+      "loss": 15,
+      "goal_for": 37,
+      "goal_against": 50,
+      "goal_difference": -13,
       "points": 39
     },
     {
@@ -248,13 +248,13 @@
         "id": "542",
         "name": "Alaves"
       },
-      "played": 33,
+      "played": 34,
       "win": 9,
       "draw": 9,
-      "loss": 15,
-      "goal_for": 38,
-      "goal_against": 49,
-      "goal_difference": -11,
+      "loss": 16,
+      "goal_for": 40,
+      "goal_against": 53,
+      "goal_difference": -13,
       "points": 36
     },
     {
