@@ -1,6 +1,6 @@
 {
   "group_name": "Primera División",
-  "updated_at": "2026-05-02T15:00:12",
+  "updated_at": "2026-05-02T19:00:12",
   "table": [
     {
       "position": 1,
@@ -38,14 +38,14 @@
         "id": "533",
         "name": "Villarreal"
       },
-      "played": 33,
-      "win": 20,
+      "played": 34,
+      "win": 21,
       "draw": 5,
       "loss": 8,
-      "goal_for": 59,
-      "goal_against": 38,
-      "goal_difference": 21,
-      "points": 65
+      "goal_for": 64,
+      "goal_against": 39,
+      "goal_difference": 25,
+      "points": 68
     },
     {
       "position": 4,
@@ -278,13 +278,13 @@
         "id": "539",
         "name": "Levante"
       },
-      "played": 33,
+      "played": 34,
       "win": 8,
       "draw": 9,
-      "loss": 16,
-      "goal_for": 37,
-      "goal_against": 50,
-      "goal_difference": -13,
+      "loss": 17,
+      "goal_for": 38,
+      "goal_against": 55,
+      "goal_difference": -17,
       "points": 33
     },
     {
