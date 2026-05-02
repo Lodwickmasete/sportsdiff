@@ -1,6 +1,6 @@
 {
   "group_name": "Ligue 1 ",
-  "updated_at": "2026-05-02T03:00:54",
+  "updated_at": "2026-05-02T11:00:53",
   "table": [
     {
       "position": 1,
@@ -35,21 +35,6 @@
     {
       "position": 3,
       "team": {
-        "id": "79",
-        "name": "Lille"
-      },
-      "played": 31,
-      "win": 17,
-      "draw": 6,
-      "loss": 8,
-      "goal_for": 50,
-      "goal_against": 34,
-      "goal_difference": 16,
-      "points": 57
-    },
-    {
-      "position": 4,
-      "team": {
         "id": "80",
         "name": "Lyon"
       },
@@ -59,6 +44,21 @@
       "loss": 8,
       "goal_for": 48,
       "goal_against": 32,
+      "goal_difference": 16,
+      "points": 57
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "79",
+        "name": "Lille"
+      },
+      "played": 31,
+      "win": 17,
+      "draw": 6,
+      "loss": 8,
+      "goal_for": 50,
+      "goal_against": 34,
       "goal_difference": 16,
       "points": 57
     },
