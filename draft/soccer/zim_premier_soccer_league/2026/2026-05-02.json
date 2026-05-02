@@ -1,6 +1,6 @@
 {
   "group_name": "Premier Soccer League 2026",
-  "updated_at": "2026-05-02T19:00:50",
+  "updated_at": "2026-05-02T23:50:50",
   "table": [
     {
       "position": 1,
@@ -27,9 +27,9 @@
       "win": 6,
       "draw": 3,
       "loss": 1,
-      "goal_for": 13,
+      "goal_for": 16,
       "goal_against": 6,
-      "goal_difference": 7,
+      "goal_difference": 10,
       "points": 21
     },
     {
@@ -38,14 +38,14 @@
         "id": "25735",
         "name": "Scotland Mabvuku"
       },
-      "played": 9,
+      "played": 10,
       "win": 4,
-      "draw": 5,
+      "draw": 6,
       "loss": 0,
       "goal_for": 11,
       "goal_against": 3,
       "goal_difference": 8,
-      "points": 17
+      "points": 18
     },
     {
       "position": 4,
@@ -95,6 +95,21 @@
     {
       "position": 7,
       "team": {
+        "id": "21055",
+        "name": "Simba Bhora"
+      },
+      "played": 10,
+      "win": 3,
+      "draw": 5,
+      "loss": 2,
+      "goal_for": 7,
+      "goal_against": 4,
+      "goal_difference": 3,
+      "points": 14
+    },
+    {
+      "position": 8,
+      "team": {
         "id": "25734",
         "name": "MWOS"
       },
@@ -106,21 +121,6 @@
       "goal_against": 7,
       "goal_difference": 1,
       "points": 14
-    },
-    {
-      "position": 8,
-      "team": {
-        "id": "21055",
-        "name": "Simba Bhora"
-      },
-      "played": 9,
-      "win": 3,
-      "draw": 4,
-      "loss": 2,
-      "goal_for": 7,
-      "goal_against": 4,
-      "goal_difference": 3,
-      "points": 13
     },
     {
       "position": 9,
@@ -170,6 +170,21 @@
     {
       "position": 12,
       "team": {
+        "id": "5230",
+        "name": "Platinum"
+      },
+      "played": 10,
+      "win": 2,
+      "draw": 6,
+      "loss": 2,
+      "goal_for": 9,
+      "goal_against": 10,
+      "goal_difference": -1,
+      "points": 12
+    },
+    {
+      "position": 13,
+      "team": {
         "id": "5224",
         "name": "Highlanders"
       },
@@ -183,21 +198,6 @@
       "points": 11
     },
     {
-      "position": 13,
-      "team": {
-        "id": "5230",
-        "name": "Platinum"
-      },
-      "played": 9,
-      "win": 2,
-      "draw": 5,
-      "loss": 2,
-      "goal_for": 9,
-      "goal_against": 10,
-      "goal_difference": -1,
-      "points": 11
-    },
-    {
       "position": 14,
       "team": {
         "id": "27275",
@@ -208,8 +208,8 @@
       "draw": 5,
       "loss": 4,
       "goal_for": 5,
-      "goal_against": 11,
-      "goal_difference": -6,
+      "goal_against": 14,
+      "goal_difference": -9,
       "points": 8
     },
     {
@@ -230,6 +230,21 @@
     {
       "position": 16,
       "team": {
+        "id": "27273",
+        "name": "Agama"
+      },
+      "played": 10,
+      "win": 0,
+      "draw": 4,
+      "loss": 6,
+      "goal_for": 7,
+      "goal_against": 16,
+      "goal_difference": -9,
+      "points": 4
+    },
+    {
+      "position": 17,
+      "team": {
         "id": "5231",
         "name": "TelOne"
       },
@@ -240,21 +255,6 @@
       "goal_for": 6,
       "goal_against": 13,
       "goal_difference": -7,
-      "points": 3
-    },
-    {
-      "position": 17,
-      "team": {
-        "id": "27273",
-        "name": "Agama"
-      },
-      "played": 9,
-      "win": 0,
-      "draw": 3,
-      "loss": 6,
-      "goal_for": 7,
-      "goal_against": 16,
-      "goal_difference": -9,
       "points": 3
     },
     {
