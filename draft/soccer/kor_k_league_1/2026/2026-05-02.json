@@ -1,6 +1,6 @@
 {
   "group_name": "K-League",
-  "updated_at": "2026-05-02T15:00:38",
+  "updated_at": "2026-05-02T19:00:38",
   "table": [
     {
       "position": 1,
@@ -65,6 +65,21 @@
     {
       "position": 5,
       "team": {
+        "id": "2750",
+        "name": "Daejeon Citizen"
+      },
+      "played": 11,
+      "win": 4,
+      "draw": 3,
+      "loss": 4,
+      "goal_for": 16,
+      "goal_against": 10,
+      "goal_difference": 6,
+      "points": 15
+    },
+    {
+      "position": 6,
+      "team": {
         "id": "2764",
         "name": "Pohang Steelers"
       },
@@ -78,22 +93,22 @@
       "points": 15
     },
     {
-      "position": 6,
+      "position": 7,
       "team": {
         "id": "2748",
         "name": "FC Anyang"
       },
-      "played": 10,
+      "played": 11,
       "win": 3,
       "draw": 5,
-      "loss": 2,
+      "loss": 3,
       "goal_for": 14,
-      "goal_against": 11,
-      "goal_difference": 3,
+      "goal_against": 12,
+      "goal_difference": 2,
       "points": 14
     },
     {
-      "position": 7,
+      "position": 8,
       "team": {
         "id": "2763",
         "name": "Incheon United"
@@ -108,7 +123,7 @@
       "points": 14
     },
     {
-      "position": 8,
+      "position": 9,
       "team": {
         "id": "2768",
         "name": "Gimcheon Sangmu FC"
@@ -123,22 +138,22 @@
       "points": 13
     },
     {
-      "position": 9,
+      "position": 10,
       "team": {
-        "id": "2750",
-        "name": "Daejeon Citizen"
+        "id": "2745",
+        "name": "Bucheon FC 1995"
       },
-      "played": 10,
+      "played": 11,
       "win": 3,
-      "draw": 3,
+      "draw": 4,
       "loss": 4,
-      "goal_for": 11,
-      "goal_against": 10,
-      "goal_difference": 1,
-      "points": 12
+      "goal_for": 9,
+      "goal_against": 13,
+      "goal_difference": -4,
+      "points": 13
     },
     {
-      "position": 10,
+      "position": 11,
       "team": {
         "id": "2761",
         "name": "Jeju United FC"
@@ -153,33 +168,18 @@
       "points": 12
     },
     {
-      "position": 11,
-      "team": {
-        "id": "2745",
-        "name": "Bucheon FC 1995"
-      },
-      "played": 10,
-      "win": 2,
-      "draw": 4,
-      "loss": 4,
-      "goal_for": 8,
-      "goal_against": 13,
-      "goal_difference": -5,
-      "points": 10
-    },
-    {
       "position": 12,
       "team": {
         "id": "2759",
         "name": "Gwangju FC"
       },
-      "played": 10,
+      "played": 11,
       "win": 1,
       "draw": 3,
-      "loss": 6,
+      "loss": 7,
       "goal_for": 7,
-      "goal_against": 23,
-      "goal_difference": -16,
+      "goal_against": 28,
+      "goal_difference": -21,
       "points": 6
     }
   ]
