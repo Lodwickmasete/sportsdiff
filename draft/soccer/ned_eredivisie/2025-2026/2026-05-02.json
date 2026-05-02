@@ -1,6 +1,6 @@
 {
   "group_name": "Eredivisie",
-  "updated_at": "2026-05-02T19:01:03",
+  "updated_at": "2026-05-02T23:51:03",
   "table": [
     {
       "position": 1,
@@ -113,32 +113,17 @@
         "id": "207",
         "name": "Utrecht"
       },
-      "played": 31,
-      "win": 12,
+      "played": 32,
+      "win": 13,
       "draw": 8,
       "loss": 11,
-      "goal_for": 49,
+      "goal_for": 51,
       "goal_against": 41,
-      "goal_difference": 8,
-      "points": 44
+      "goal_difference": 10,
+      "points": 47
     },
     {
       "position": 9,
-      "team": {
-        "id": "202",
-        "name": "Groningen"
-      },
-      "played": 31,
-      "win": 12,
-      "draw": 6,
-      "loss": 13,
-      "goal_for": 43,
-      "goal_against": 40,
-      "goal_difference": 3,
-      "points": 42
-    },
-    {
-      "position": 10,
       "team": {
         "id": "426",
         "name": "Sparta Rotterdam"
@@ -150,6 +135,21 @@
       "goal_for": 36,
       "goal_against": 53,
       "goal_difference": -17,
+      "points": 42
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "202",
+        "name": "Groningen"
+      },
+      "played": 32,
+      "win": 12,
+      "draw": 6,
+      "loss": 14,
+      "goal_for": 45,
+      "goal_against": 43,
+      "goal_difference": 2,
       "points": 42
     },
     {
@@ -203,14 +203,14 @@
         "id": "196",
         "name": "Excelsior"
       },
-      "played": 31,
-      "win": 8,
+      "played": 32,
+      "win": 9,
       "draw": 7,
       "loss": 16,
-      "goal_for": 36,
-      "goal_against": 51,
-      "goal_difference": -15,
-      "points": 31
+      "goal_for": 39,
+      "goal_against": 53,
+      "goal_difference": -14,
+      "points": 34
     },
     {
       "position": 15,
@@ -248,13 +248,13 @@
         "id": "203",
         "name": "NAC Breda"
       },
-      "played": 31,
+      "played": 32,
       "win": 5,
       "draw": 10,
-      "loss": 16,
+      "loss": 17,
       "goal_for": 30,
-      "goal_against": 53,
-      "goal_difference": -23,
+      "goal_against": 55,
+      "goal_difference": -25,
       "points": 25
     },
     {
