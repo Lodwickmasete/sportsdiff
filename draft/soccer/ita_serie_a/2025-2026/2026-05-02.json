@@ -1,6 +1,6 @@
 {
   "group_name": "Serie A",
-  "updated_at": "2026-05-02T19:00:09",
+  "updated_at": "2026-05-02T23:50:09",
   "table": [
     {
       "position": 1,
@@ -23,14 +23,14 @@
         "id": "492",
         "name": "Napoli"
       },
-      "played": 34,
+      "played": 35,
       "win": 21,
-      "draw": 6,
+      "draw": 7,
       "loss": 7,
       "goal_for": 52,
       "goal_against": 33,
       "goal_difference": 19,
-      "points": 69
+      "points": 70
     },
     {
       "position": 3,
@@ -68,14 +68,14 @@
         "id": "895",
         "name": "Como"
       },
-      "played": 34,
+      "played": 35,
       "win": 17,
-      "draw": 10,
+      "draw": 11,
       "loss": 7,
       "goal_for": 59,
       "goal_against": 28,
       "goal_difference": 31,
-      "points": 61
+      "points": 62
     },
     {
       "position": 6,
@@ -140,6 +140,21 @@
     {
       "position": 10,
       "team": {
+        "id": "494",
+        "name": "Udinese"
+      },
+      "played": 35,
+      "win": 13,
+      "draw": 8,
+      "loss": 14,
+      "goal_for": 43,
+      "goal_against": 46,
+      "goal_difference": -3,
+      "points": 47
+    },
+    {
+      "position": 11,
+      "team": {
         "id": "488",
         "name": "Sassuolo"
       },
@@ -151,21 +166,6 @@
       "goal_against": 44,
       "goal_difference": -3,
       "points": 46
-    },
-    {
-      "position": 11,
-      "team": {
-        "id": "494",
-        "name": "Udinese"
-      },
-      "played": 34,
-      "win": 12,
-      "draw": 8,
-      "loss": 14,
-      "goal_for": 41,
-      "goal_against": 46,
-      "goal_difference": -5,
-      "points": 44
     },
     {
       "position": 12,
@@ -188,13 +188,13 @@
         "id": "503",
         "name": "Torino"
       },
-      "played": 34,
+      "played": 35,
       "win": 11,
       "draw": 8,
-      "loss": 15,
+      "loss": 16,
       "goal_for": 39,
-      "goal_against": 56,
-      "goal_difference": -17,
+      "goal_against": 58,
+      "goal_difference": -19,
       "points": 41
     },
     {
