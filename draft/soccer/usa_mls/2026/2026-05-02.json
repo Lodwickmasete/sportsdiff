@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T19:00:27",
+  "updated_at": "2026-05-02T23:50:27",
   "groups": [
     {
       "group_name": "Western Conference",
@@ -10,14 +10,14 @@
             "id": "1596",
             "name": "San Jose Earthquakes"
           },
-          "played": 10,
+          "played": 11,
           "win": 9,
-          "draw": 0,
+          "draw": 1,
           "loss": 1,
-          "goal_for": 25,
-          "goal_against": 6,
+          "goal_for": 26,
+          "goal_against": 7,
           "goal_difference": 19,
-          "points": 27
+          "points": 28
         },
         {
           "position": 2,
@@ -315,14 +315,14 @@
             "id": "1601",
             "name": "Toronto FC"
           },
-          "played": 10,
+          "played": 11,
           "win": 3,
-          "draw": 4,
+          "draw": 5,
           "loss": 3,
-          "goal_for": 17,
-          "goal_against": 19,
+          "goal_for": 18,
+          "goal_against": 20,
           "goal_difference": -2,
-          "points": 13
+          "points": 14
         },
         {
           "position": 7,
