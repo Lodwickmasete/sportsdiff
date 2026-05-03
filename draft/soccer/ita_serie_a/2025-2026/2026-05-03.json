@@ -1,6 +1,6 @@
 {
   "group_name": "Serie A",
-  "updated_at": "2026-05-03T15:00:09",
+  "updated_at": "2026-05-03T19:00:09",
   "table": [
     {
       "position": 1,
@@ -110,6 +110,21 @@
     {
       "position": 8,
       "team": {
+        "id": "500",
+        "name": "Bologna"
+      },
+      "played": 35,
+      "win": 14,
+      "draw": 7,
+      "loss": 14,
+      "goal_for": 42,
+      "goal_against": 41,
+      "goal_difference": 1,
+      "points": 49
+    },
+    {
+      "position": 9,
+      "team": {
         "id": "487",
         "name": "Lazio"
       },
@@ -120,21 +135,6 @@
       "goal_for": 37,
       "goal_against": 33,
       "goal_difference": 4,
-      "points": 48
-    },
-    {
-      "position": 9,
-      "team": {
-        "id": "500",
-        "name": "Bologna"
-      },
-      "played": 34,
-      "win": 14,
-      "draw": 6,
-      "loss": 14,
-      "goal_for": 42,
-      "goal_against": 41,
-      "goal_difference": 1,
       "points": 48
     },
     {
@@ -215,6 +215,21 @@
     {
       "position": 15,
       "team": {
+        "id": "490",
+        "name": "Cagliari"
+      },
+      "played": 35,
+      "win": 9,
+      "draw": 10,
+      "loss": 16,
+      "goal_for": 36,
+      "goal_against": 49,
+      "goal_difference": -13,
+      "points": 37
+    },
+    {
+      "position": 16,
+      "team": {
         "id": "502",
         "name": "Fiorentina"
       },
@@ -226,21 +241,6 @@
       "goal_against": 45,
       "goal_difference": -7,
       "points": 37
-    },
-    {
-      "position": 16,
-      "team": {
-        "id": "490",
-        "name": "Cagliari"
-      },
-      "played": 34,
-      "win": 9,
-      "draw": 9,
-      "loss": 16,
-      "goal_for": 36,
-      "goal_against": 49,
-      "goal_difference": -13,
-      "points": 36
     },
     {
       "position": 17,
