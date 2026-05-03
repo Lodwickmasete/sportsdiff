@@ -1,6 +1,6 @@
 {
   "group_name": "Primera División",
-  "updated_at": "2026-05-03T15:00:12",
+  "updated_at": "2026-05-03T19:00:11",
   "table": [
     {
       "position": 1,
@@ -83,14 +83,14 @@
         "id": "538",
         "name": "Celta Vigo"
       },
-      "played": 33,
-      "win": 11,
+      "played": 34,
+      "win": 12,
       "draw": 11,
       "loss": 11,
-      "goal_for": 45,
-      "goal_against": 43,
-      "goal_difference": 2,
-      "points": 44
+      "goal_for": 48,
+      "goal_against": 44,
+      "goal_difference": 4,
+      "points": 47
     },
     {
       "position": 7,
@@ -203,13 +203,13 @@
         "id": "797",
         "name": "Elche"
       },
-      "played": 33,
+      "played": 34,
       "win": 9,
       "draw": 11,
-      "loss": 13,
-      "goal_for": 44,
-      "goal_against": 50,
-      "goal_difference": -6,
+      "loss": 14,
+      "goal_for": 45,
+      "goal_against": 53,
+      "goal_difference": -8,
       "points": 38
     },
     {
