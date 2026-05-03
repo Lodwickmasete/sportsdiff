@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T03:00:14",
+  "updated_at": "2026-05-03T11:00:14",
   "groups": [
     {
       "group_name": "Pro League ",
@@ -165,13 +165,13 @@
             "id": "742",
             "name": "Genk"
           },
-          "played": 35,
+          "played": 36,
           "win": 13,
           "draw": 12,
-          "loss": 10,
+          "loss": 11,
           "goal_for": 52,
-          "goal_against": 51,
-          "goal_difference": 1,
+          "goal_against": 53,
+          "goal_difference": -1,
           "points": 30
         },
         {
@@ -192,21 +192,6 @@
         {
           "position": 3,
           "team": {
-            "id": "740",
-            "name": "Antwerp"
-          },
-          "played": 35,
-          "win": 12,
-          "draw": 8,
-          "loss": 15,
-          "goal_for": 41,
-          "goal_against": 39,
-          "goal_difference": 2,
-          "points": 27
-        },
-        {
-          "position": 4,
-          "team": {
             "id": "733",
             "name": "Standard Liege"
           },
@@ -220,19 +205,34 @@
           "points": 27
         },
         {
+          "position": 4,
+          "team": {
+            "id": "740",
+            "name": "Antwerp"
+          },
+          "played": 35,
+          "win": 12,
+          "draw": 8,
+          "loss": 15,
+          "goal_for": 41,
+          "goal_against": 39,
+          "goal_difference": 2,
+          "points": 27
+        },
+        {
           "position": 5,
           "team": {
             "id": "736",
             "name": "Charleroi"
           },
-          "played": 35,
-          "win": 11,
+          "played": 36,
+          "win": 12,
           "draw": 8,
           "loss": 16,
-          "goal_for": 44,
+          "goal_for": 46,
           "goal_against": 48,
-          "goal_difference": -4,
-          "points": 24
+          "goal_difference": -2,
+          "points": 27
         },
         {
           "position": 6,
