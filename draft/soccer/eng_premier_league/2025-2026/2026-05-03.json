@@ -1,6 +1,6 @@
 {
   "group_name": "Premier League",
-  "updated_at": "2026-05-03T15:00:45",
+  "updated_at": "2026-05-03T19:00:45",
   "table": [
     {
       "position": 1,
@@ -80,6 +80,21 @@
     {
       "position": 6,
       "team": {
+        "id": "35",
+        "name": "Bournemouth"
+      },
+      "played": 35,
+      "win": 12,
+      "draw": 16,
+      "loss": 7,
+      "goal_for": 55,
+      "goal_against": 52,
+      "goal_difference": 3,
+      "points": 52
+    },
+    {
+      "position": 7,
+      "team": {
         "id": "55",
         "name": "Brentford"
       },
@@ -93,7 +108,7 @@
       "points": 51
     },
     {
-      "position": 7,
+      "position": 8,
       "team": {
         "id": "51",
         "name": "Brighton"
@@ -106,21 +121,6 @@
       "goal_against": 42,
       "goal_difference": 7,
       "points": 50
-    },
-    {
-      "position": 8,
-      "team": {
-        "id": "35",
-        "name": "Bournemouth"
-      },
-      "played": 34,
-      "win": 11,
-      "draw": 16,
-      "loss": 7,
-      "goal_for": 52,
-      "goal_against": 52,
-      "goal_difference": 0,
-      "points": 49
     },
     {
       "position": 9,
@@ -200,21 +200,6 @@
     {
       "position": 14,
       "team": {
-        "id": "52",
-        "name": "Crystal Palace"
-      },
-      "played": 33,
-      "win": 11,
-      "draw": 10,
-      "loss": 12,
-      "goal_for": 36,
-      "goal_against": 39,
-      "goal_difference": -3,
-      "points": 43
-    },
-    {
-      "position": 15,
-      "team": {
         "id": "63",
         "name": "Leeds"
       },
@@ -225,6 +210,21 @@
       "goal_for": 47,
       "goal_against": 52,
       "goal_difference": -5,
+      "points": 43
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "52",
+        "name": "Crystal Palace"
+      },
+      "played": 34,
+      "win": 11,
+      "draw": 10,
+      "loss": 13,
+      "goal_for": 36,
+      "goal_against": 42,
+      "goal_difference": -6,
       "points": 43
     },
     {
