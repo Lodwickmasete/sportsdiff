@@ -1,6 +1,6 @@
 {
   "group_name": "Premier Soccer League 2026",
-  "updated_at": "2026-05-03T15:00:50",
+  "updated_at": "2026-05-03T19:00:50",
   "table": [
     {
       "position": 1,
@@ -38,32 +38,17 @@
         "id": "25735",
         "name": "Scotland Mabvuku"
       },
-      "played": 10,
-      "win": 4,
+      "played": 11,
+      "win": 5,
       "draw": 6,
       "loss": 0,
-      "goal_for": 11,
+      "goal_for": 12,
       "goal_against": 3,
-      "goal_difference": 8,
-      "points": 18
+      "goal_difference": 9,
+      "points": 21
     },
     {
       "position": 4,
-      "team": {
-        "id": "5221",
-        "name": "Dynamos"
-      },
-      "played": 9,
-      "win": 4,
-      "draw": 5,
-      "loss": 0,
-      "goal_for": 10,
-      "goal_against": 5,
-      "goal_difference": 5,
-      "points": 17
-    },
-    {
-      "position": 5,
       "team": {
         "id": "5229",
         "name": "Ngezi Platinum"
@@ -74,6 +59,21 @@
       "loss": 0,
       "goal_for": 12,
       "goal_against": 8,
+      "goal_difference": 4,
+      "points": 17
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "5221",
+        "name": "Dynamos"
+      },
+      "played": 10,
+      "win": 4,
+      "draw": 5,
+      "loss": 1,
+      "goal_for": 11,
+      "goal_against": 7,
       "goal_difference": 4,
       "points": 17
     },
@@ -95,20 +95,35 @@
     {
       "position": 7,
       "team": {
-        "id": "21055",
-        "name": "Simba Bhora"
+        "id": "5220",
+        "name": "Chicken Inn"
       },
       "played": 10,
-      "win": 3,
-      "draw": 5,
-      "loss": 2,
-      "goal_for": 7,
-      "goal_against": 4,
-      "goal_difference": 3,
-      "points": 14
+      "win": 4,
+      "draw": 3,
+      "loss": 3,
+      "goal_for": 9,
+      "goal_against": 8,
+      "goal_difference": 1,
+      "points": 15
     },
     {
       "position": 8,
+      "team": {
+        "id": "21055",
+        "name": "Simba Bhora"
+      },
+      "played": 11,
+      "win": 3,
+      "draw": 5,
+      "loss": 3,
+      "goal_for": 7,
+      "goal_against": 5,
+      "goal_difference": 2,
+      "points": 14
+    },
+    {
+      "position": 9,
       "team": {
         "id": "25734",
         "name": "MWOS"
@@ -123,7 +138,7 @@
       "points": 14
     },
     {
-      "position": 9,
+      "position": 10,
       "team": {
         "id": "5217",
         "name": "Bulawayo Chiefs"
@@ -138,7 +153,7 @@
       "points": 13
     },
     {
-      "position": 10,
+      "position": 11,
       "team": {
         "id": "5226",
         "name": "Kariba"
@@ -150,21 +165,6 @@
       "goal_for": 6,
       "goal_against": 5,
       "goal_difference": 1,
-      "points": 12
-    },
-    {
-      "position": 11,
-      "team": {
-        "id": "5220",
-        "name": "Chicken Inn"
-      },
-      "played": 9,
-      "win": 3,
-      "draw": 3,
-      "loss": 3,
-      "goal_for": 7,
-      "goal_against": 7,
-      "goal_difference": 0,
       "points": 12
     },
     {
