@@ -1,6 +1,6 @@
 {
   "group_name": "Bundesliga ",
-  "updated_at": "2026-05-03T15:00:58",
+  "updated_at": "2026-05-03T19:00:57",
   "table": [
     {
       "position": 1,
@@ -143,14 +143,14 @@
         "id": "164",
         "name": "FSV Mainz 05"
       },
-      "played": 31,
-      "win": 8,
+      "played": 32,
+      "win": 9,
       "draw": 10,
       "loss": 13,
-      "goal_for": 39,
+      "goal_for": 41,
       "goal_against": 49,
-      "goal_difference": -10,
-      "points": 34
+      "goal_difference": -8,
+      "points": 37
     },
     {
       "position": 11,
@@ -233,13 +233,13 @@
         "id": "186",
         "name": "FC St. Pauli"
       },
-      "played": 31,
+      "played": 32,
       "win": 6,
       "draw": 8,
-      "loss": 17,
+      "loss": 18,
       "goal_for": 26,
-      "goal_against": 53,
-      "goal_difference": -27,
+      "goal_against": 55,
+      "goal_difference": -29,
       "points": 26
     },
     {
