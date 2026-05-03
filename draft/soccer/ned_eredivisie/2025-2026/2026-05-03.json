@@ -1,6 +1,6 @@
 {
   "group_name": "Eredivisie",
-  "updated_at": "2026-05-03T15:01:03",
+  "updated_at": "2026-05-03T19:01:03",
   "table": [
     {
       "position": 1,
@@ -23,14 +23,14 @@
         "id": "209",
         "name": "Feyenoord"
       },
-      "played": 31,
-      "win": 17,
+      "played": 32,
+      "win": 18,
       "draw": 7,
       "loss": 7,
-      "goal_for": 65,
-      "goal_against": 42,
-      "goal_difference": 23,
-      "points": 58
+      "goal_for": 67,
+      "goal_against": 43,
+      "goal_difference": 24,
+      "points": 61
     },
     {
       "position": 3,
@@ -80,6 +80,21 @@
     {
       "position": 6,
       "team": {
+        "id": "210",
+        "name": "Heerenveen"
+      },
+      "played": 32,
+      "win": 14,
+      "draw": 8,
+      "loss": 10,
+      "goal_for": 57,
+      "goal_against": 51,
+      "goal_difference": 6,
+      "points": 50
+    },
+    {
+      "position": 7,
+      "team": {
         "id": "201",
         "name": "AZ Alkmaar"
       },
@@ -91,21 +106,6 @@
       "goal_against": 45,
       "goal_difference": 7,
       "points": 49
-    },
-    {
-      "position": 7,
-      "team": {
-        "id": "210",
-        "name": "Heerenveen"
-      },
-      "played": 31,
-      "win": 13,
-      "draw": 8,
-      "loss": 10,
-      "goal_for": 55,
-      "goal_against": 51,
-      "goal_difference": 4,
-      "points": 47
     },
     {
       "position": 8,
@@ -170,32 +170,32 @@
     {
       "position": 12,
       "team": {
-        "id": "205",
-        "name": "Fortuna Sittard"
+        "id": "193",
+        "name": "PEC Zwolle"
       },
-      "played": 31,
-      "win": 10,
-      "draw": 6,
-      "loss": 15,
-      "goal_for": 45,
-      "goal_against": 57,
-      "goal_difference": -12,
-      "points": 36
+      "played": 32,
+      "win": 9,
+      "draw": 10,
+      "loss": 13,
+      "goal_for": 42,
+      "goal_against": 66,
+      "goal_difference": -24,
+      "points": 37
     },
     {
       "position": 13,
       "team": {
-        "id": "193",
-        "name": "PEC Zwolle"
+        "id": "205",
+        "name": "Fortuna Sittard"
       },
-      "played": 31,
-      "win": 8,
-      "draw": 10,
-      "loss": 13,
-      "goal_for": 41,
-      "goal_against": 66,
-      "goal_difference": -25,
-      "points": 34
+      "played": 32,
+      "win": 10,
+      "draw": 6,
+      "loss": 16,
+      "goal_for": 46,
+      "goal_against": 59,
+      "goal_difference": -13,
+      "points": 36
     },
     {
       "position": 14,
@@ -215,21 +215,6 @@
     {
       "position": 15,
       "team": {
-        "id": "416",
-        "name": "FC Volendam"
-      },
-      "played": 31,
-      "win": 8,
-      "draw": 7,
-      "loss": 16,
-      "goal_for": 33,
-      "goal_against": 50,
-      "goal_difference": -17,
-      "points": 31
-    },
-    {
-      "position": 16,
-      "team": {
         "id": "427",
         "name": "Telstar"
       },
@@ -240,6 +225,21 @@
       "goal_for": 44,
       "goal_against": 54,
       "goal_difference": -10,
+      "points": 31
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "416",
+        "name": "FC Volendam"
+      },
+      "played": 32,
+      "win": 8,
+      "draw": 7,
+      "loss": 17,
+      "goal_for": 33,
+      "goal_against": 52,
+      "goal_difference": -19,
       "points": 31
     },
     {
@@ -263,13 +263,13 @@
         "id": "206",
         "name": "Heracles"
       },
-      "played": 31,
+      "played": 32,
       "win": 5,
       "draw": 4,
-      "loss": 22,
+      "loss": 23,
       "goal_for": 34,
-      "goal_against": 79,
-      "goal_difference": -45,
+      "goal_against": 80,
+      "goal_difference": -46,
       "points": 19
     }
   ]
