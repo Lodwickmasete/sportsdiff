@@ -1,6 +1,6 @@
 {
-  "group_name": "Super League",
-  "updated_at": "2026-05-03T03:00:17",
+  "group_name": "Chinese Super League",
+  "updated_at": "2026-05-03T11:00:17",
   "table": [
     {
       "position": 1,
@@ -240,7 +240,7 @@
       "goal_for": 13,
       "goal_against": 14,
       "goal_difference": -1,
-      "points": 0
+      "points": -1
     }
   ]
 }
