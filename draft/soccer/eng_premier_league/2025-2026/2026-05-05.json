@@ -1,306 +1,306 @@
 {
-    "group_name": "Premier League",
-    "updated_at": "2026-05-05T18:56:02",
-    "table": [
-        {
-            "position": 1,
-            "team": {
-                "id": "42",
-                "name": "Arsenal"
-            },
-            "played": 35,
-            "win": 23,
-            "draw": 7,
-            "loss": 5,
-            "goal_for": 67,
-            "goal_against": 26,
-            "goal_difference": 41,
-            "points": 76
-        },
-        {
-            "position": 2,
-            "team": {
-                "id": "50",
-                "name": "Manchester City"
-            },
-            "played": 34,
-            "win": 21,
-            "draw": 8,
-            "loss": 5,
-            "goal_for": 69,
-            "goal_against": 32,
-            "goal_difference": 37,
-            "points": 71
-        },
-        {
-            "position": 3,
-            "team": {
-                "id": "33",
-                "name": "Manchester United"
-            },
-            "played": 35,
-            "win": 18,
-            "draw": 10,
-            "loss": 7,
-            "goal_for": 63,
-            "goal_against": 48,
-            "goal_difference": 15,
-            "points": 64
-        },
-        {
-            "position": 4,
-            "team": {
-                "id": "40",
-                "name": "Liverpool"
-            },
-            "played": 35,
-            "win": 17,
-            "draw": 7,
-            "loss": 11,
-            "goal_for": 59,
-            "goal_against": 47,
-            "goal_difference": 12,
-            "points": 58
-        },
-        {
-            "position": 5,
-            "team": {
-                "id": "66",
-                "name": "Aston Villa"
-            },
-            "played": 35,
-            "win": 17,
-            "draw": 7,
-            "loss": 11,
-            "goal_for": 48,
-            "goal_against": 44,
-            "goal_difference": 4,
-            "points": 58
-        },
-        {
-            "position": 6,
-            "team": {
-                "id": "35",
-                "name": "Bournemouth"
-            },
-            "played": 35,
-            "win": 12,
-            "draw": 16,
-            "loss": 7,
-            "goal_for": 55,
-            "goal_against": 52,
-            "goal_difference": 3,
-            "points": 52
-        },
-        {
-            "position": 7,
-            "team": {
-                "id": "55",
-                "name": "Brentford"
-            },
-            "played": 35,
-            "win": 14,
-            "draw": 9,
-            "loss": 12,
-            "goal_for": 52,
-            "goal_against": 46,
-            "goal_difference": 6,
-            "points": 51
-        },
-        {
-            "position": 8,
-            "team": {
-                "id": "51",
-                "name": "Brighton"
-            },
-            "played": 35,
-            "win": 13,
-            "draw": 11,
-            "loss": 11,
-            "goal_for": 49,
-            "goal_against": 42,
-            "goal_difference": 7,
-            "points": 50
-        },
-        {
-            "position": 9,
-            "team": {
-                "id": "49",
-                "name": "Chelsea"
-            },
-            "played": 35,
-            "win": 13,
-            "draw": 9,
-            "loss": 13,
-            "goal_for": 54,
-            "goal_against": 48,
-            "goal_difference": 6,
-            "points": 48
-        },
-        {
-            "position": 10,
-            "team": {
-                "id": "45",
-                "name": "Everton"
-            },
-            "played": 35,
-            "win": 13,
-            "draw": 9,
-            "loss": 13,
-            "goal_for": 44,
-            "goal_against": 44,
-            "goal_difference": 0,
-            "points": 48
-        },
-        {
-            "position": 11,
-            "team": {
-                "id": "36",
-                "name": "Fulham"
-            },
-            "played": 35,
-            "win": 14,
-            "draw": 6,
-            "loss": 15,
-            "goal_for": 44,
-            "goal_against": 49,
-            "goal_difference": -5,
-            "points": 48
-        },
-        {
-            "position": 12,
-            "team": {
-                "id": "746",
-                "name": "Sunderland"
-            },
-            "played": 35,
-            "win": 12,
-            "draw": 11,
-            "loss": 12,
-            "goal_for": 37,
-            "goal_against": 46,
-            "goal_difference": -9,
-            "points": 47
-        },
-        {
-            "position": 13,
-            "team": {
-                "id": "34",
-                "name": "Newcastle"
-            },
-            "played": 35,
-            "win": 13,
-            "draw": 6,
-            "loss": 16,
-            "goal_for": 49,
-            "goal_against": 51,
-            "goal_difference": -2,
-            "points": 45
-        },
-        {
-            "position": 14,
-            "team": {
-                "id": "63",
-                "name": "Leeds"
-            },
-            "played": 35,
-            "win": 10,
-            "draw": 13,
-            "loss": 12,
-            "goal_for": 47,
-            "goal_against": 52,
-            "goal_difference": -5,
-            "points": 43
-        },
-        {
-            "position": 15,
-            "team": {
-                "id": "52",
-                "name": "Crystal Palace"
-            },
-            "played": 34,
-            "win": 11,
-            "draw": 10,
-            "loss": 13,
-            "goal_for": 36,
-            "goal_against": 42,
-            "goal_difference": -6,
-            "points": 43
-        },
-        {
-            "position": 16,
-            "team": {
-                "id": "65",
-                "name": "Nottingham Forest"
-            },
-            "played": 35,
-            "win": 11,
-            "draw": 9,
-            "loss": 15,
-            "goal_for": 44,
-            "goal_against": 46,
-            "goal_difference": -2,
-            "points": 42
-        },
-        {
-            "position": 17,
-            "team": {
-                "id": "47",
-                "name": "Tottenham"
-            },
-            "played": 35,
-            "win": 9,
-            "draw": 10,
-            "loss": 16,
-            "goal_for": 45,
-            "goal_against": 54,
-            "goal_difference": -9,
-            "points": 37
-        },
-        {
-            "position": 18,
-            "team": {
-                "id": "48",
-                "name": "West Ham"
-            },
-            "played": 35,
-            "win": 9,
-            "draw": 9,
-            "loss": 17,
-            "goal_for": 42,
-            "goal_against": 61,
-            "goal_difference": -19,
-            "points": 36
-        },
-        {
-            "position": 19,
-            "team": {
-                "id": "44",
-                "name": "Burnley"
-            },
-            "played": 35,
-            "win": 4,
-            "draw": 8,
-            "loss": 23,
-            "goal_for": 35,
-            "goal_against": 71,
-            "goal_difference": -36,
-            "points": 20
-        },
-        {
-            "position": 20,
-            "team": {
-                "id": "39",
-                "name": "Wolves"
-            },
-            "played": 35,
-            "win": 3,
-            "draw": 9,
-            "loss": 23,
-            "goal_for": 25,
-            "goal_against": 63,
-            "goal_difference": -38,
-            "points": 18
-        }
-    ]
+  "group_name": "Premier League",
+  "updated_at": "2026-05-05T21:18:33",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "42",
+        "name": "Arsenal"
+      },
+      "played": 35,
+      "win": 23,
+      "draw": 7,
+      "loss": 5,
+      "goal_for": 67,
+      "goal_against": 26,
+      "goal_difference": 41,
+      "points": 76
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "50",
+        "name": "Manchester City"
+      },
+      "played": 34,
+      "win": 21,
+      "draw": 8,
+      "loss": 5,
+      "goal_for": 69,
+      "goal_against": 32,
+      "goal_difference": 37,
+      "points": 71
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "33",
+        "name": "Manchester United"
+      },
+      "played": 35,
+      "win": 18,
+      "draw": 10,
+      "loss": 7,
+      "goal_for": 63,
+      "goal_against": 48,
+      "goal_difference": 15,
+      "points": 64
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "40",
+        "name": "Liverpool"
+      },
+      "played": 35,
+      "win": 17,
+      "draw": 7,
+      "loss": 11,
+      "goal_for": 59,
+      "goal_against": 47,
+      "goal_difference": 12,
+      "points": 58
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "66",
+        "name": "Aston Villa"
+      },
+      "played": 35,
+      "win": 17,
+      "draw": 7,
+      "loss": 11,
+      "goal_for": 48,
+      "goal_against": 44,
+      "goal_difference": 4,
+      "points": 58
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "35",
+        "name": "Bournemouth"
+      },
+      "played": 35,
+      "win": 12,
+      "draw": 16,
+      "loss": 7,
+      "goal_for": 55,
+      "goal_against": 52,
+      "goal_difference": 3,
+      "points": 52
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "55",
+        "name": "Brentford"
+      },
+      "played": 35,
+      "win": 14,
+      "draw": 9,
+      "loss": 12,
+      "goal_for": 52,
+      "goal_against": 46,
+      "goal_difference": 6,
+      "points": 51
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "51",
+        "name": "Brighton"
+      },
+      "played": 35,
+      "win": 13,
+      "draw": 11,
+      "loss": 11,
+      "goal_for": 49,
+      "goal_against": 42,
+      "goal_difference": 7,
+      "points": 50
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "49",
+        "name": "Chelsea"
+      },
+      "played": 35,
+      "win": 13,
+      "draw": 9,
+      "loss": 13,
+      "goal_for": 54,
+      "goal_against": 48,
+      "goal_difference": 6,
+      "points": 48
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "45",
+        "name": "Everton"
+      },
+      "played": 35,
+      "win": 13,
+      "draw": 9,
+      "loss": 13,
+      "goal_for": 44,
+      "goal_against": 44,
+      "goal_difference": 0,
+      "points": 48
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "36",
+        "name": "Fulham"
+      },
+      "played": 35,
+      "win": 14,
+      "draw": 6,
+      "loss": 15,
+      "goal_for": 44,
+      "goal_against": 49,
+      "goal_difference": -5,
+      "points": 48
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "746",
+        "name": "Sunderland"
+      },
+      "played": 35,
+      "win": 12,
+      "draw": 11,
+      "loss": 12,
+      "goal_for": 37,
+      "goal_against": 46,
+      "goal_difference": -9,
+      "points": 47
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "34",
+        "name": "Newcastle"
+      },
+      "played": 35,
+      "win": 13,
+      "draw": 6,
+      "loss": 16,
+      "goal_for": 49,
+      "goal_against": 51,
+      "goal_difference": -2,
+      "points": 45
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "63",
+        "name": "Leeds"
+      },
+      "played": 35,
+      "win": 10,
+      "draw": 13,
+      "loss": 12,
+      "goal_for": 47,
+      "goal_against": 52,
+      "goal_difference": -5,
+      "points": 43
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "52",
+        "name": "Crystal Palace"
+      },
+      "played": 34,
+      "win": 11,
+      "draw": 10,
+      "loss": 13,
+      "goal_for": 36,
+      "goal_against": 42,
+      "goal_difference": -6,
+      "points": 43
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "65",
+        "name": "Nottingham Forest"
+      },
+      "played": 35,
+      "win": 11,
+      "draw": 9,
+      "loss": 15,
+      "goal_for": 44,
+      "goal_against": 46,
+      "goal_difference": -2,
+      "points": 42
+    },
+    {
+      "position": 17,
+      "team": {
+        "id": "47",
+        "name": "Tottenham"
+      },
+      "played": 35,
+      "win": 9,
+      "draw": 10,
+      "loss": 16,
+      "goal_for": 45,
+      "goal_against": 54,
+      "goal_difference": -9,
+      "points": 37
+    },
+    {
+      "position": 18,
+      "team": {
+        "id": "48",
+        "name": "West Ham"
+      },
+      "played": 35,
+      "win": 9,
+      "draw": 9,
+      "loss": 17,
+      "goal_for": 42,
+      "goal_against": 61,
+      "goal_difference": -19,
+      "points": 36
+    },
+    {
+      "position": 19,
+      "team": {
+        "id": "44",
+        "name": "Burnley"
+      },
+      "played": 35,
+      "win": 4,
+      "draw": 8,
+      "loss": 23,
+      "goal_for": 35,
+      "goal_against": 71,
+      "goal_difference": -36,
+      "points": 20
+    },
+    {
+      "position": 20,
+      "team": {
+        "id": "39",
+        "name": "Wolves"
+      },
+      "played": 35,
+      "win": 3,
+      "draw": 9,
+      "loss": 23,
+      "goal_for": 25,
+      "goal_against": 63,
+      "goal_difference": -38,
+      "points": 18
+    }
+  ]
 }
