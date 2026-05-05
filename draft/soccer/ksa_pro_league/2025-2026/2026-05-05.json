@@ -1,0 +1,276 @@
+{
+    "group_name": "Saudi League ",
+    "updated_at": "2026-05-05T18:55:53",
+    "table": [
+        {
+            "position": 1,
+            "team": {
+                "id": "2939",
+                "name": "Al-Nassr"
+            },
+            "played": 31,
+            "win": 26,
+            "draw": 1,
+            "loss": 4,
+            "goal_for": 82,
+            "goal_against": 24,
+            "goal_difference": 58,
+            "points": 79
+        },
+        {
+            "position": 2,
+            "team": {
+                "id": "2932",
+                "name": "Al-Hilal Saudi FC"
+            },
+            "played": 30,
+            "win": 22,
+            "draw": 8,
+            "loss": 0,
+            "goal_for": 79,
+            "goal_against": 25,
+            "goal_difference": 54,
+            "points": 74
+        },
+        {
+            "position": 3,
+            "team": {
+                "id": "2929",
+                "name": "Al-Ahli Jeddah"
+            },
+            "played": 30,
+            "win": 21,
+            "draw": 6,
+            "loss": 3,
+            "goal_for": 59,
+            "goal_against": 22,
+            "goal_difference": 37,
+            "points": 69
+        },
+        {
+            "position": 4,
+            "team": {
+                "id": "2933",
+                "name": "Al-Qadisiyah FC"
+            },
+            "played": 31,
+            "win": 20,
+            "draw": 8,
+            "loss": 3,
+            "goal_for": 74,
+            "goal_against": 32,
+            "goal_difference": 42,
+            "points": 68
+        },
+        {
+            "position": 5,
+            "team": {
+                "id": "2936",
+                "name": "Al Taawon"
+            },
+            "played": 31,
+            "win": 15,
+            "draw": 7,
+            "loss": 9,
+            "goal_for": 57,
+            "goal_against": 41,
+            "goal_difference": 16,
+            "points": 52
+        },
+        {
+            "position": 6,
+            "team": {
+                "id": "2938",
+                "name": "Al-Ittihad FC"
+            },
+            "played": 30,
+            "win": 14,
+            "draw": 7,
+            "loss": 9,
+            "goal_for": 47,
+            "goal_against": 38,
+            "goal_difference": 9,
+            "points": 49
+        },
+        {
+            "position": 7,
+            "team": {
+                "id": "2934",
+                "name": "Al-Ettifaq"
+            },
+            "played": 31,
+            "win": 13,
+            "draw": 7,
+            "loss": 11,
+            "goal_for": 44,
+            "goal_against": 51,
+            "goal_difference": -7,
+            "points": 46
+        },
+        {
+            "position": 8,
+            "team": {
+                "id": "10513",
+                "name": "NEOM"
+            },
+            "played": 31,
+            "win": 11,
+            "draw": 8,
+            "loss": 12,
+            "goal_for": 40,
+            "goal_against": 44,
+            "goal_difference": -4,
+            "points": 41
+        },
+        {
+            "position": 9,
+            "team": {
+                "id": "2944",
+                "name": "Al-Fayha"
+            },
+            "played": 31,
+            "win": 10,
+            "draw": 8,
+            "loss": 13,
+            "goal_for": 40,
+            "goal_against": 48,
+            "goal_difference": -8,
+            "points": 38
+        },
+        {
+            "position": 10,
+            "team": {
+                "id": "2945",
+                "name": "Al-Hazm"
+            },
+            "played": 31,
+            "win": 10,
+            "draw": 8,
+            "loss": 13,
+            "goal_for": 34,
+            "goal_against": 53,
+            "goal_difference": -19,
+            "points": 38
+        },
+        {
+            "position": 11,
+            "team": {
+                "id": "2928",
+                "name": "Al Khaleej Saihat"
+            },
+            "played": 30,
+            "win": 10,
+            "draw": 7,
+            "loss": 13,
+            "goal_for": 51,
+            "goal_against": 48,
+            "goal_difference": 3,
+            "points": 37
+        },
+        {
+            "position": 12,
+            "team": {
+                "id": "2931",
+                "name": "Al-Fateh"
+            },
+            "played": 30,
+            "win": 8,
+            "draw": 9,
+            "loss": 13,
+            "goal_for": 38,
+            "goal_against": 51,
+            "goal_difference": -13,
+            "points": 33
+        },
+        {
+            "position": 13,
+            "team": {
+                "id": "2940",
+                "name": "Al Shabab"
+            },
+            "played": 30,
+            "win": 7,
+            "draw": 11,
+            "loss": 12,
+            "goal_for": 38,
+            "goal_against": 48,
+            "goal_difference": -10,
+            "points": 32
+        },
+        {
+            "position": 14,
+            "team": {
+                "id": "10509",
+                "name": "Al Kholood"
+            },
+            "played": 31,
+            "win": 9,
+            "draw": 4,
+            "loss": 18,
+            "goal_for": 39,
+            "goal_against": 58,
+            "goal_difference": -19,
+            "points": 31
+        },
+        {
+            "position": 15,
+            "team": {
+                "id": "2956",
+                "name": "Damac"
+            },
+            "played": 31,
+            "win": 5,
+            "draw": 11,
+            "loss": 15,
+            "goal_for": 27,
+            "goal_against": 49,
+            "goal_difference": -22,
+            "points": 26
+        },
+        {
+            "position": 16,
+            "team": {
+                "id": "10511",
+                "name": "Al Riyadh"
+            },
+            "played": 31,
+            "win": 5,
+            "draw": 8,
+            "loss": 18,
+            "goal_for": 32,
+            "goal_against": 62,
+            "goal_difference": -30,
+            "points": 23
+        },
+        {
+            "position": 17,
+            "team": {
+                "id": "2977",
+                "name": "Al Okhdood"
+            },
+            "played": 31,
+            "win": 4,
+            "draw": 4,
+            "loss": 23,
+            "goal_for": 24,
+            "goal_against": 68,
+            "goal_difference": -44,
+            "points": 16
+        },
+        {
+            "position": 18,
+            "team": {
+                "id": "2992",
+                "name": "Al Najma"
+            },
+            "played": 31,
+            "win": 2,
+            "draw": 6,
+            "loss": 23,
+            "goal_for": 29,
+            "goal_against": 72,
+            "goal_difference": -43,
+            "points": 12
+        }
+    ]
+}
