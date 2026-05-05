@@ -1,0 +1,276 @@
+{
+    "group_name": "Ligue 1 ",
+    "updated_at": "2026-05-05T18:56:27",
+    "table": [
+        {
+            "position": 1,
+            "team": {
+                "id": "85",
+                "name": "Paris Saint Germain"
+            },
+            "played": 31,
+            "win": 22,
+            "draw": 4,
+            "loss": 5,
+            "goal_for": 70,
+            "goal_against": 27,
+            "goal_difference": 43,
+            "points": 70
+        },
+        {
+            "position": 2,
+            "team": {
+                "id": "116",
+                "name": "Lens"
+            },
+            "played": 31,
+            "win": 20,
+            "draw": 4,
+            "loss": 7,
+            "goal_for": 61,
+            "goal_against": 33,
+            "goal_difference": 28,
+            "points": 64
+        },
+        {
+            "position": 3,
+            "team": {
+                "id": "80",
+                "name": "Lyon"
+            },
+            "played": 32,
+            "win": 18,
+            "draw": 6,
+            "loss": 8,
+            "goal_for": 52,
+            "goal_against": 34,
+            "goal_difference": 18,
+            "points": 60
+        },
+        {
+            "position": 4,
+            "team": {
+                "id": "79",
+                "name": "Lille"
+            },
+            "played": 32,
+            "win": 17,
+            "draw": 7,
+            "loss": 8,
+            "goal_for": 51,
+            "goal_against": 35,
+            "goal_difference": 16,
+            "points": 58
+        },
+        {
+            "position": 5,
+            "team": {
+                "id": "94",
+                "name": "Rennes"
+            },
+            "played": 32,
+            "win": 16,
+            "draw": 8,
+            "loss": 8,
+            "goal_for": 56,
+            "goal_against": 46,
+            "goal_difference": 10,
+            "points": 56
+        },
+        {
+            "position": 6,
+            "team": {
+                "id": "91",
+                "name": "Monaco"
+            },
+            "played": 32,
+            "win": 16,
+            "draw": 6,
+            "loss": 10,
+            "goal_for": 56,
+            "goal_against": 48,
+            "goal_difference": 8,
+            "points": 54
+        },
+        {
+            "position": 7,
+            "team": {
+                "id": "81",
+                "name": "Marseille"
+            },
+            "played": 32,
+            "win": 16,
+            "draw": 5,
+            "loss": 11,
+            "goal_for": 59,
+            "goal_against": 44,
+            "goal_difference": 15,
+            "points": 53
+        },
+        {
+            "position": 8,
+            "team": {
+                "id": "95",
+                "name": "Strasbourg"
+            },
+            "played": 31,
+            "win": 13,
+            "draw": 7,
+            "loss": 11,
+            "goal_for": 50,
+            "goal_against": 41,
+            "goal_difference": 9,
+            "points": 46
+        },
+        {
+            "position": 9,
+            "team": {
+                "id": "97",
+                "name": "Lorient"
+            },
+            "played": 32,
+            "win": 10,
+            "draw": 12,
+            "loss": 10,
+            "goal_for": 44,
+            "goal_against": 49,
+            "goal_difference": -5,
+            "points": 42
+        },
+        {
+            "position": 10,
+            "team": {
+                "id": "96",
+                "name": "Toulouse"
+            },
+            "played": 32,
+            "win": 11,
+            "draw": 8,
+            "loss": 13,
+            "goal_for": 45,
+            "goal_against": 45,
+            "goal_difference": 0,
+            "points": 41
+        },
+        {
+            "position": 11,
+            "team": {
+                "id": "114",
+                "name": "Paris FC"
+            },
+            "played": 32,
+            "win": 10,
+            "draw": 11,
+            "loss": 11,
+            "goal_for": 44,
+            "goal_against": 47,
+            "goal_difference": -3,
+            "points": 41
+        },
+        {
+            "position": 12,
+            "team": {
+                "id": "106",
+                "name": "Stade Brestois 29"
+            },
+            "played": 31,
+            "win": 10,
+            "draw": 8,
+            "loss": 13,
+            "goal_for": 41,
+            "goal_against": 51,
+            "goal_difference": -10,
+            "points": 38
+        },
+        {
+            "position": 13,
+            "team": {
+                "id": "77",
+                "name": "Angers"
+            },
+            "played": 32,
+            "win": 9,
+            "draw": 7,
+            "loss": 16,
+            "goal_for": 27,
+            "goal_against": 46,
+            "goal_difference": -19,
+            "points": 34
+        },
+        {
+            "position": 14,
+            "team": {
+                "id": "111",
+                "name": "Le Havre"
+            },
+            "played": 32,
+            "win": 6,
+            "draw": 14,
+            "loss": 12,
+            "goal_for": 30,
+            "goal_against": 43,
+            "goal_difference": -13,
+            "points": 32
+        },
+        {
+            "position": 15,
+            "team": {
+                "id": "84",
+                "name": "Nice"
+            },
+            "played": 32,
+            "win": 7,
+            "draw": 10,
+            "loss": 15,
+            "goal_for": 36,
+            "goal_against": 58,
+            "goal_difference": -22,
+            "points": 31
+        },
+        {
+            "position": 16,
+            "team": {
+                "id": "108",
+                "name": "Auxerre"
+            },
+            "played": 32,
+            "win": 6,
+            "draw": 10,
+            "loss": 16,
+            "goal_for": 30,
+            "goal_against": 43,
+            "goal_difference": -13,
+            "points": 28
+        },
+        {
+            "position": 17,
+            "team": {
+                "id": "83",
+                "name": "Nantes"
+            },
+            "played": 32,
+            "win": 5,
+            "draw": 8,
+            "loss": 19,
+            "goal_for": 29,
+            "goal_against": 51,
+            "goal_difference": -22,
+            "points": 23
+        },
+        {
+            "position": 18,
+            "team": {
+                "id": "112",
+                "name": "Metz"
+            },
+            "played": 32,
+            "win": 3,
+            "draw": 7,
+            "loss": 22,
+            "goal_for": 32,
+            "goal_against": 72,
+            "goal_difference": -40,
+            "points": 16
+        }
+    ]
+}
