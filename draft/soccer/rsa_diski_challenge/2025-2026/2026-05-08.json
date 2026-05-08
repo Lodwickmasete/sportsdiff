@@ -1,0 +1,231 @@
+{
+  "group_name": "Diski Challenge, Reserves ",
+  "updated_at": "2026-05-08T23:42:51",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "15995",
+        "name": "Orlando Pirates U23"
+      },
+      "played": 29,
+      "win": 23,
+      "draw": 3,
+      "loss": 3,
+      "goal_for": 62,
+      "goal_against": 18,
+      "goal_difference": 44,
+      "points": 72
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "15993",
+        "name": "Mamelodi Sundowns U23"
+      },
+      "played": 29,
+      "win": 22,
+      "draw": 3,
+      "loss": 4,
+      "goal_for": 71,
+      "goal_against": 30,
+      "goal_difference": 41,
+      "points": 69
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "15992",
+        "name": "Kaizer Chiefs U23"
+      },
+      "played": 29,
+      "win": 12,
+      "draw": 10,
+      "loss": 7,
+      "goal_for": 47,
+      "goal_against": 33,
+      "goal_difference": 14,
+      "points": 46
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "15996",
+        "name": "Stellenbosch U23"
+      },
+      "played": 29,
+      "win": 14,
+      "draw": 4,
+      "loss": 11,
+      "goal_for": 51,
+      "goal_against": 42,
+      "goal_difference": 9,
+      "points": 46
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "26501",
+        "name": "Orbit College U23"
+      },
+      "played": 29,
+      "win": 13,
+      "draw": 4,
+      "loss": 12,
+      "goal_for": 35,
+      "goal_against": 37,
+      "goal_difference": -2,
+      "points": 43
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "17719",
+        "name": "Sekhukhune United U23"
+      },
+      "played": 29,
+      "win": 10,
+      "draw": 9,
+      "loss": 10,
+      "goal_for": 46,
+      "goal_against": 35,
+      "goal_difference": 11,
+      "points": 39
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "15985",
+        "name": "AmaZulu U23"
+      },
+      "played": 29,
+      "win": 11,
+      "draw": 5,
+      "loss": 13,
+      "goal_for": 36,
+      "goal_against": 50,
+      "goal_difference": -14,
+      "points": 38
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "20296",
+        "name": "Richards Bay U23"
+      },
+      "played": 29,
+      "win": 10,
+      "draw": 7,
+      "loss": 12,
+      "goal_for": 37,
+      "goal_against": 43,
+      "goal_difference": -6,
+      "points": 37
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "15991",
+        "name": "Golden Arrows U23"
+      },
+      "played": 29,
+      "win": 10,
+      "draw": 5,
+      "loss": 14,
+      "goal_for": 45,
+      "goal_against": 56,
+      "goal_difference": -11,
+      "points": 35
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "17717",
+        "name": "Marumo Gallants U23"
+      },
+      "played": 29,
+      "win": 10,
+      "draw": 5,
+      "loss": 14,
+      "goal_for": 40,
+      "goal_against": 51,
+      "goal_difference": -11,
+      "points": 35
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "15999",
+        "name": "TS Galaxy U23"
+      },
+      "played": 29,
+      "win": 10,
+      "draw": 5,
+      "loss": 14,
+      "goal_for": 37,
+      "goal_against": 50,
+      "goal_difference": -13,
+      "points": 35
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "15994",
+        "name": "Durban City U23"
+      },
+      "played": 29,
+      "win": 7,
+      "draw": 10,
+      "loss": 12,
+      "goal_for": 47,
+      "goal_against": 44,
+      "goal_difference": 3,
+      "points": 31
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "24881",
+        "name": "Magesi U23"
+      },
+      "played": 29,
+      "win": 7,
+      "draw": 9,
+      "loss": 13,
+      "goal_for": 29,
+      "goal_against": 44,
+      "goal_difference": -15,
+      "points": 30
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "22378",
+        "name": "Polokwane City U23"
+      },
+      "played": 29,
+      "win": 3,
+      "draw": 11,
+      "loss": 15,
+      "goal_for": 17,
+      "goal_against": 51,
+      "goal_difference": -34,
+      "points": 20
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "15990",
+        "name": "Chippa United U23"
+      },
+      "played": 29,
+      "win": 5,
+      "draw": 2,
+      "loss": 22,
+      "goal_for": 35,
+      "goal_against": 71,
+      "goal_difference": -36,
+      "points": 17
+    }
+  ]
+}
