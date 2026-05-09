@@ -1,0 +1,365 @@
+{
+  "updated_at": "2026-05-10T00:45:00",
+  "groups": [
+    {
+      "group_name": "West",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "id": "288",
+            "name": "Nagoya Grampus"
+          },
+          "played": 15,
+          "win": 9,
+          "draw": 0,
+          "loss": 6,
+          "goal_for": 27,
+          "goal_against": 21,
+          "goal_difference": 6,
+          "points": 28
+        },
+        {
+          "position": 2,
+          "team": {
+            "id": "289",
+            "name": "Vissel Kobe"
+          },
+          "played": 14,
+          "win": 9,
+          "draw": 0,
+          "loss": 5,
+          "goal_for": 25,
+          "goal_against": 19,
+          "goal_difference": 6,
+          "points": 28
+        },
+        {
+          "position": 3,
+          "team": {
+            "id": "293",
+            "name": "Gamba Osaka"
+          },
+          "played": 16,
+          "win": 9,
+          "draw": 0,
+          "loss": 7,
+          "goal_for": 29,
+          "goal_against": 23,
+          "goal_difference": 6,
+          "points": 25
+        },
+        {
+          "position": 4,
+          "team": {
+            "id": "291",
+            "name": "Cerezo Osaka"
+          },
+          "played": 16,
+          "win": 9,
+          "draw": 0,
+          "loss": 7,
+          "goal_for": 21,
+          "goal_against": 18,
+          "goal_difference": 3,
+          "points": 25
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": "283",
+            "name": "Shimizu S-pulse"
+          },
+          "played": 15,
+          "win": 7,
+          "draw": 0,
+          "loss": 8,
+          "goal_for": 20,
+          "goal_against": 20,
+          "goal_difference": 0,
+          "points": 22
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": "282",
+            "name": "Sanfrecce Hiroshima"
+          },
+          "played": 15,
+          "win": 7,
+          "draw": 0,
+          "loss": 8,
+          "goal_for": 22,
+          "goal_against": 21,
+          "goal_difference": 1,
+          "points": 21
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": "302",
+            "name": "Kyoto Sanga"
+          },
+          "played": 14,
+          "win": 7,
+          "draw": 0,
+          "loss": 7,
+          "goal_for": 21,
+          "goal_against": 20,
+          "goal_difference": 1,
+          "points": 20
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": "310",
+            "name": "Fagiano Okayama"
+          },
+          "played": 15,
+          "win": 6,
+          "draw": 0,
+          "loss": 9,
+          "goal_for": 19,
+          "goal_against": 26,
+          "goal_difference": -7,
+          "points": 20
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": "316",
+            "name": "Avispa Fukuoka"
+          },
+          "played": 16,
+          "win": 7,
+          "draw": 0,
+          "loss": 9,
+          "goal_for": 20,
+          "goal_against": 28,
+          "goal_difference": -8,
+          "points": 20
+        },
+        {
+          "position": 10,
+          "team": {
+            "id": "285",
+            "name": "V-varen Nagasaki"
+          },
+          "played": 16,
+          "win": 6,
+          "draw": 0,
+          "loss": 10,
+          "goal_for": 18,
+          "goal_against": 26,
+          "goal_difference": -8,
+          "points": 19
+        }
+      ]
+    },
+    {
+      "group_name": "East",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "id": "290",
+            "name": "Kashima"
+          },
+          "played": 15,
+          "win": 12,
+          "draw": 0,
+          "loss": 3,
+          "goal_for": 26,
+          "goal_against": 10,
+          "goal_difference": 16,
+          "points": 37
+        },
+        {
+          "position": 2,
+          "team": {
+            "id": "292",
+            "name": "FC Tokyo"
+          },
+          "played": 15,
+          "win": 11,
+          "draw": 0,
+          "loss": 4,
+          "goal_for": 29,
+          "goal_against": 16,
+          "goal_difference": 13,
+          "points": 32
+        },
+        {
+          "position": 3,
+          "team": {
+            "id": "303",
+            "name": "Machida Zelvia"
+          },
+          "played": 14,
+          "win": 10,
+          "draw": 0,
+          "loss": 4,
+          "goal_for": 23,
+          "goal_against": 20,
+          "goal_difference": 3,
+          "points": 28
+        },
+        {
+          "position": 4,
+          "team": {
+            "id": "287",
+            "name": "Urawa"
+          },
+          "played": 16,
+          "win": 7,
+          "draw": 0,
+          "loss": 9,
+          "goal_for": 25,
+          "goal_against": 20,
+          "goal_difference": 5,
+          "points": 24
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": "306",
+            "name": "Tokyo Verdy"
+          },
+          "played": 14,
+          "win": 9,
+          "draw": 0,
+          "loss": 5,
+          "goal_for": 20,
+          "goal_against": 17,
+          "goal_difference": 3,
+          "points": 24
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": "294",
+            "name": "Kawasaki Frontale"
+          },
+          "played": 15,
+          "win": 8,
+          "draw": 0,
+          "loss": 7,
+          "goal_for": 21,
+          "goal_against": 25,
+          "goal_difference": -4,
+          "points": 23
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": "305",
+            "name": "Mito Hollyhock"
+          },
+          "played": 16,
+          "win": 6,
+          "draw": 0,
+          "loss": 10,
+          "goal_for": 22,
+          "goal_against": 35,
+          "goal_difference": -13,
+          "points": 18
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": "296",
+            "name": "Yokohama F. Marinos"
+          },
+          "played": 15,
+          "win": 5,
+          "draw": 0,
+          "loss": 10,
+          "goal_for": 21,
+          "goal_against": 28,
+          "goal_difference": -7,
+          "points": 16
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": "301",
+            "name": "JEF United Chiba"
+          },
+          "played": 15,
+          "win": 3,
+          "draw": 0,
+          "loss": 12,
+          "goal_for": 16,
+          "goal_against": 26,
+          "goal_difference": -10,
+          "points": 12
+        },
+        {
+          "position": 10,
+          "team": {
+            "id": "281",
+            "name": "Kashiwa Reysol"
+          },
+          "played": 15,
+          "win": 4,
+          "draw": 0,
+          "loss": 11,
+          "goal_for": 16,
+          "goal_against": 22,
+          "goal_difference": -6,
+          "points": 11
+        }
+      ]
+    },
+    {
+      "group_name": "J-League",
+      "table": [
+        {
+          "position": 18,
+          "team": {
+            "id": "307",
+            "name": "Yokohama FC"
+          },
+          "played": 38,
+          "win": 9,
+          "draw": 8,
+          "loss": 21,
+          "goal_for": 27,
+          "goal_against": 45,
+          "goal_difference": -18,
+          "points": 35
+        },
+        {
+          "position": 19,
+          "team": {
+            "id": "284",
+            "name": "Shonan Bellmare"
+          },
+          "played": 38,
+          "win": 8,
+          "draw": 8,
+          "loss": 22,
+          "goal_for": 36,
+          "goal_against": 63,
+          "goal_difference": -27,
+          "points": 32
+        },
+        {
+          "position": 20,
+          "team": {
+            "id": "311",
+            "name": "Albirex Niigata"
+          },
+          "played": 38,
+          "win": 4,
+          "draw": 12,
+          "loss": 22,
+          "goal_for": 36,
+          "goal_against": 67,
+          "goal_difference": -31,
+          "points": 24
+        }
+      ]
+    }
+  ]
+}
