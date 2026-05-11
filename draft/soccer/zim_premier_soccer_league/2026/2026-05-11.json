@@ -1,0 +1,276 @@
+{
+  "group_name": "Premier Soccer League 2026",
+  "updated_at": "2026-05-11T14:57:00",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "5218",
+        "name": "CAPS United"
+      },
+      "played": 11,
+      "win": 8,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 14,
+      "goal_against": 6,
+      "goal_difference": 8,
+      "points": 25
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "27274",
+        "name": "Hardrock"
+      },
+      "played": 11,
+      "win": 7,
+      "draw": 3,
+      "loss": 1,
+      "goal_for": 19,
+      "goal_against": 6,
+      "goal_difference": 13,
+      "points": 24
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "5229",
+        "name": "Ngezi Platinum"
+      },
+      "played": 11,
+      "win": 5,
+      "draw": 6,
+      "loss": 0,
+      "goal_for": 14,
+      "goal_against": 9,
+      "goal_difference": 5,
+      "points": 21
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "21055",
+        "name": "Simba Bhora"
+      },
+      "played": 11,
+      "win": 5,
+      "draw": 4,
+      "loss": 2,
+      "goal_for": 11,
+      "goal_against": 6,
+      "goal_difference": 5,
+      "points": 19
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "25735",
+        "name": "Scotland Mabvuku"
+      },
+      "played": 11,
+      "win": 4,
+      "draw": 6,
+      "loss": 1,
+      "goal_for": 12,
+      "goal_against": 5,
+      "goal_difference": 7,
+      "points": 18
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "5223",
+        "name": "Herentals"
+      },
+      "played": 11,
+      "win": 5,
+      "draw": 3,
+      "loss": 3,
+      "goal_for": 14,
+      "goal_against": 12,
+      "goal_difference": 2,
+      "points": 18
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "5221",
+        "name": "Dynamos"
+      },
+      "played": 11,
+      "win": 4,
+      "draw": 5,
+      "loss": 2,
+      "goal_for": 12,
+      "goal_against": 9,
+      "goal_difference": 3,
+      "points": 17
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "25734",
+        "name": "MWOS"
+      },
+      "played": 11,
+      "win": 4,
+      "draw": 5,
+      "loss": 2,
+      "goal_for": 9,
+      "goal_against": 7,
+      "goal_difference": 2,
+      "points": 17
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "5220",
+        "name": "Chicken Inn"
+      },
+      "played": 11,
+      "win": 4,
+      "draw": 3,
+      "loss": 4,
+      "goal_for": 9,
+      "goal_against": 9,
+      "goal_difference": 0,
+      "points": 15
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "5224",
+        "name": "Highlanders"
+      },
+      "played": 11,
+      "win": 2,
+      "draw": 8,
+      "loss": 1,
+      "goal_for": 9,
+      "goal_against": 7,
+      "goal_difference": 2,
+      "points": 14
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "5217",
+        "name": "Bulawayo Chiefs"
+      },
+      "played": 11,
+      "win": 3,
+      "draw": 5,
+      "loss": 3,
+      "goal_for": 9,
+      "goal_against": 9,
+      "goal_difference": 0,
+      "points": 14
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "5230",
+        "name": "Platinum"
+      },
+      "played": 11,
+      "win": 2,
+      "draw": 7,
+      "loss": 2,
+      "goal_for": 9,
+      "goal_against": 10,
+      "goal_difference": -1,
+      "points": 13
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "5226",
+        "name": "Kariba"
+      },
+      "played": 11,
+      "win": 2,
+      "draw": 6,
+      "loss": 3,
+      "goal_for": 7,
+      "goal_against": 7,
+      "goal_difference": 0,
+      "points": 12
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "27275",
+        "name": "Hunters"
+      },
+      "played": 11,
+      "win": 1,
+      "draw": 6,
+      "loss": 4,
+      "goal_for": 6,
+      "goal_against": 15,
+      "goal_difference": -9,
+      "points": 9
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "5232",
+        "name": "Triangle United"
+      },
+      "played": 11,
+      "win": 2,
+      "draw": 1,
+      "loss": 8,
+      "goal_for": 6,
+      "goal_against": 11,
+      "goal_difference": -5,
+      "points": 7
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "5231",
+        "name": "TelOne"
+      },
+      "played": 11,
+      "win": 1,
+      "draw": 3,
+      "loss": 7,
+      "goal_for": 8,
+      "goal_against": 17,
+      "goal_difference": -9,
+      "points": 6
+    },
+    {
+      "position": 17,
+      "team": {
+        "id": "5227",
+        "name": "Manica Diamonds"
+      },
+      "played": 11,
+      "win": 1,
+      "draw": 2,
+      "loss": 8,
+      "goal_for": 4,
+      "goal_against": 16,
+      "goal_difference": -12,
+      "points": 5
+    },
+    {
+      "position": 18,
+      "team": {
+        "id": "27273",
+        "name": "Agama"
+      },
+      "played": 11,
+      "win": 0,
+      "draw": 4,
+      "loss": 7,
+      "goal_for": 8,
+      "goal_against": 19,
+      "goal_difference": -11,
+      "points": 4
+    }
+  ]
+}
