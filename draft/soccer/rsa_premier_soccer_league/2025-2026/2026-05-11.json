@@ -1,0 +1,246 @@
+{
+  "group_name": "Premier League",
+  "updated_at": "2026-05-11T14:56:44",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "2699",
+        "name": "Mamelodi Sundowns"
+      },
+      "played": 29,
+      "win": 20,
+      "draw": 8,
+      "loss": 1,
+      "goal_for": 55,
+      "goal_against": 18,
+      "goal_difference": 37,
+      "points": 68
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "2700",
+        "name": "Orlando Pirates"
+      },
+      "played": 28,
+      "win": 20,
+      "draw": 5,
+      "loss": 3,
+      "goal_for": 56,
+      "goal_against": 12,
+      "goal_difference": 44,
+      "points": 65
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "2691",
+        "name": "Kaizer Chiefs"
+      },
+      "played": 28,
+      "win": 14,
+      "draw": 9,
+      "loss": 5,
+      "goal_for": 32,
+      "goal_against": 18,
+      "goal_difference": 14,
+      "points": 51
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "2669",
+        "name": "Amazulu"
+      },
+      "played": 28,
+      "win": 12,
+      "draw": 8,
+      "loss": 8,
+      "goal_for": 31,
+      "goal_against": 27,
+      "goal_difference": 4,
+      "points": 44
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "15537",
+        "name": "Sekhukhune United"
+      },
+      "played": 28,
+      "win": 11,
+      "draw": 9,
+      "loss": 8,
+      "goal_for": 29,
+      "goal_against": 24,
+      "goal_difference": 5,
+      "points": 42
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "2693",
+        "name": "Polokwane City"
+      },
+      "played": 29,
+      "win": 9,
+      "draw": 12,
+      "loss": 8,
+      "goal_for": 20,
+      "goal_against": 20,
+      "goal_difference": 0,
+      "points": 39
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "24757",
+        "name": "Durban City"
+      },
+      "played": 28,
+      "win": 10,
+      "draw": 8,
+      "loss": 10,
+      "goal_for": 25,
+      "goal_against": 25,
+      "goal_difference": 0,
+      "points": 38
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "2690",
+        "name": "Golden Arrows"
+      },
+      "played": 28,
+      "win": 10,
+      "draw": 7,
+      "loss": 11,
+      "goal_for": 32,
+      "goal_against": 33,
+      "goal_difference": -1,
+      "points": 37
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "26299",
+        "name": "Siwelele"
+      },
+      "played": 28,
+      "win": 7,
+      "draw": 12,
+      "loss": 9,
+      "goal_for": 21,
+      "goal_against": 26,
+      "goal_difference": -5,
+      "points": 33
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "4905",
+        "name": "Stellenbosch"
+      },
+      "played": 28,
+      "win": 8,
+      "draw": 9,
+      "loss": 11,
+      "goal_for": 24,
+      "goal_against": 30,
+      "goal_difference": -6,
+      "points": 33
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "10567",
+        "name": "Richards Bay"
+      },
+      "played": 28,
+      "win": 7,
+      "draw": 12,
+      "loss": 9,
+      "goal_for": 22,
+      "goal_against": 28,
+      "goal_difference": -6,
+      "points": 33
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "8074",
+        "name": "TS Galaxy"
+      },
+      "played": 28,
+      "win": 7,
+      "draw": 7,
+      "loss": 14,
+      "goal_for": 27,
+      "goal_against": 36,
+      "goal_difference": -9,
+      "points": 28
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "2698",
+        "name": "Chippa United"
+      },
+      "played": 28,
+      "win": 5,
+      "draw": 10,
+      "loss": 13,
+      "goal_for": 23,
+      "goal_against": 42,
+      "goal_difference": -19,
+      "points": 25
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "10582",
+        "name": "Orbit College"
+      },
+      "played": 28,
+      "win": 6,
+      "draw": 6,
+      "loss": 16,
+      "goal_for": 21,
+      "goal_against": 43,
+      "goal_difference": -22,
+      "points": 24
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "2682",
+        "name": "Marumo Gallants"
+      },
+      "played": 28,
+      "win": 4,
+      "draw": 11,
+      "loss": 13,
+      "goal_for": 20,
+      "goal_against": 37,
+      "goal_difference": -17,
+      "points": 23
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "19999",
+        "name": "Magesi"
+      },
+      "played": 28,
+      "win": 4,
+      "draw": 9,
+      "loss": 15,
+      "goal_for": 23,
+      "goal_against": 42,
+      "goal_difference": -19,
+      "points": 21
+    }
+  ]
+}
