@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T20:28:51",
+  "updated_at": "2026-05-12T22:03:30",
   "groups": [
     {
       "group_name": "Premier League: Championship ",
@@ -192,6 +192,21 @@
         {
           "position": 13,
           "team": {
+            "id": "16431",
+            "name": "Future FC"
+          },
+          "played": 10,
+          "win": 2,
+          "draw": 6,
+          "loss": 2,
+          "goal_for": 6,
+          "goal_against": 6,
+          "goal_difference": 0,
+          "points": 35
+        },
+        {
+          "position": 14,
+          "team": {
             "id": "1039",
             "name": "El Geish"
           },
@@ -205,7 +220,7 @@
           "points": 34
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": "1575",
             "name": "El Mokawloon"
@@ -217,21 +232,6 @@
           "goal_for": 9,
           "goal_against": 6,
           "goal_difference": 3,
-          "points": 32
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": "16431",
-            "name": "Future FC"
-          },
-          "played": 9,
-          "win": 1,
-          "draw": 6,
-          "loss": 2,
-          "goal_for": 5,
-          "goal_against": 6,
-          "goal_difference": -1,
           "points": 32
         },
         {
@@ -282,21 +282,6 @@
         {
           "position": 19,
           "team": {
-            "id": "15736",
-            "name": "Pharco"
-          },
-          "played": 9,
-          "win": 1,
-          "draw": 4,
-          "loss": 4,
-          "goal_for": 5,
-          "goal_against": 9,
-          "goal_difference": -4,
-          "points": 22
-        },
-        {
-          "position": 20,
-          "team": {
             "id": "1576",
             "name": "Haras El Hodood"
           },
@@ -306,6 +291,21 @@
           "loss": 4,
           "goal_for": 7,
           "goal_against": 12,
+          "goal_difference": -5,
+          "points": 22
+        },
+        {
+          "position": 20,
+          "team": {
+            "id": "15736",
+            "name": "Pharco"
+          },
+          "played": 10,
+          "win": 1,
+          "draw": 4,
+          "loss": 5,
+          "goal_for": 5,
+          "goal_against": 10,
           "goal_difference": -5,
           "points": 22
         },
