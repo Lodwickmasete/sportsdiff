@@ -1,0 +1,306 @@
+{
+  "group_name": "Serie A",
+  "updated_at": "2026-05-13T01:25:47",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "505",
+        "name": "Inter"
+      },
+      "played": 36,
+      "win": 27,
+      "draw": 4,
+      "loss": 5,
+      "goal_for": 85,
+      "goal_against": 31,
+      "goal_difference": 54,
+      "points": 85
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "492",
+        "name": "Napoli"
+      },
+      "played": 36,
+      "win": 21,
+      "draw": 7,
+      "loss": 8,
+      "goal_for": 54,
+      "goal_against": 36,
+      "goal_difference": 18,
+      "points": 70
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "496",
+        "name": "Juventus"
+      },
+      "played": 36,
+      "win": 19,
+      "draw": 11,
+      "loss": 6,
+      "goal_for": 59,
+      "goal_against": 30,
+      "goal_difference": 29,
+      "points": 68
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "489",
+        "name": "AC Milan"
+      },
+      "played": 36,
+      "win": 19,
+      "draw": 10,
+      "loss": 7,
+      "goal_for": 50,
+      "goal_against": 32,
+      "goal_difference": 18,
+      "points": 67
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "497",
+        "name": "AS Roma"
+      },
+      "played": 36,
+      "win": 21,
+      "draw": 4,
+      "loss": 11,
+      "goal_for": 55,
+      "goal_against": 31,
+      "goal_difference": 24,
+      "points": 67
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "895",
+        "name": "Como"
+      },
+      "played": 36,
+      "win": 18,
+      "draw": 11,
+      "loss": 7,
+      "goal_for": 60,
+      "goal_against": 28,
+      "goal_difference": 32,
+      "points": 65
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "499",
+        "name": "Atalanta"
+      },
+      "played": 36,
+      "win": 15,
+      "draw": 13,
+      "loss": 8,
+      "goal_for": 50,
+      "goal_against": 34,
+      "goal_difference": 16,
+      "points": 58
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "500",
+        "name": "Bologna"
+      },
+      "played": 36,
+      "win": 15,
+      "draw": 7,
+      "loss": 14,
+      "goal_for": 45,
+      "goal_against": 43,
+      "goal_difference": 2,
+      "points": 52
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "487",
+        "name": "Lazio"
+      },
+      "played": 36,
+      "win": 13,
+      "draw": 12,
+      "loss": 11,
+      "goal_for": 39,
+      "goal_against": 37,
+      "goal_difference": 2,
+      "points": 51
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "494",
+        "name": "Udinese"
+      },
+      "played": 36,
+      "win": 14,
+      "draw": 8,
+      "loss": 14,
+      "goal_for": 45,
+      "goal_against": 46,
+      "goal_difference": -1,
+      "points": 50
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "488",
+        "name": "Sassuolo"
+      },
+      "played": 36,
+      "win": 14,
+      "draw": 7,
+      "loss": 15,
+      "goal_for": 44,
+      "goal_against": 46,
+      "goal_difference": -2,
+      "points": 49
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "503",
+        "name": "Torino"
+      },
+      "played": 36,
+      "win": 12,
+      "draw": 8,
+      "loss": 16,
+      "goal_for": 41,
+      "goal_against": 59,
+      "goal_difference": -18,
+      "points": 44
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "523",
+        "name": "Parma"
+      },
+      "played": 36,
+      "win": 10,
+      "draw": 12,
+      "loss": 14,
+      "goal_for": 27,
+      "goal_against": 45,
+      "goal_difference": -18,
+      "points": 42
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "495",
+        "name": "Genoa"
+      },
+      "played": 36,
+      "win": 10,
+      "draw": 11,
+      "loss": 15,
+      "goal_for": 40,
+      "goal_against": 48,
+      "goal_difference": -8,
+      "points": 41
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "502",
+        "name": "Fiorentina"
+      },
+      "played": 36,
+      "win": 8,
+      "draw": 14,
+      "loss": 14,
+      "goal_for": 38,
+      "goal_against": 49,
+      "goal_difference": -11,
+      "points": 38
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "490",
+        "name": "Cagliari"
+      },
+      "played": 36,
+      "win": 9,
+      "draw": 10,
+      "loss": 17,
+      "goal_for": 36,
+      "goal_against": 51,
+      "goal_difference": -15,
+      "points": 37
+    },
+    {
+      "position": 17,
+      "team": {
+        "id": "867",
+        "name": "Lecce"
+      },
+      "played": 36,
+      "win": 8,
+      "draw": 8,
+      "loss": 20,
+      "goal_for": 24,
+      "goal_against": 48,
+      "goal_difference": -24,
+      "points": 32
+    },
+    {
+      "position": 18,
+      "team": {
+        "id": "520",
+        "name": "Cremonese"
+      },
+      "played": 36,
+      "win": 7,
+      "draw": 10,
+      "loss": 19,
+      "goal_for": 30,
+      "goal_against": 53,
+      "goal_difference": -23,
+      "points": 31
+    },
+    {
+      "position": 19,
+      "team": {
+        "id": "504",
+        "name": "Hellas Verona"
+      },
+      "played": 36,
+      "win": 3,
+      "draw": 11,
+      "loss": 22,
+      "goal_for": 24,
+      "goal_against": 58,
+      "goal_difference": -34,
+      "points": 20
+    },
+    {
+      "position": 20,
+      "team": {
+        "id": "801",
+        "name": "Pisa"
+      },
+      "played": 36,
+      "win": 2,
+      "draw": 12,
+      "loss": 22,
+      "goal_for": 25,
+      "goal_against": 66,
+      "goal_difference": -41,
+      "points": 18
+    }
+  ]
+}
