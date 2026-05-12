@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T16:01:24",
+  "updated_at": "2026-05-12T20:28:51",
   "groups": [
     {
       "group_name": "Premier League: Championship ",
@@ -165,13 +165,13 @@
             "id": "1574",
             "name": "El Gouna FC"
           },
-          "played": 9,
+          "played": 10,
           "win": 2,
           "draw": 5,
-          "loss": 2,
+          "loss": 3,
           "goal_for": 5,
-          "goal_against": 5,
-          "goal_difference": 0,
+          "goal_against": 6,
+          "goal_difference": -1,
           "points": 39
         },
         {
@@ -252,6 +252,21 @@
         {
           "position": 17,
           "team": {
+            "id": "20458",
+            "name": "Kahraba Ismailia"
+          },
+          "played": 10,
+          "win": 3,
+          "draw": 5,
+          "loss": 2,
+          "goal_for": 10,
+          "goal_against": 11,
+          "goal_difference": -1,
+          "points": 30
+        },
+        {
+          "position": 18,
+          "team": {
             "id": "1572",
             "name": "Al Ittihad"
           },
@@ -263,21 +278,6 @@
           "goal_against": 11,
           "goal_difference": -3,
           "points": 29
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": "20458",
-            "name": "Kahraba Ismailia"
-          },
-          "played": 9,
-          "win": 2,
-          "draw": 5,
-          "loss": 2,
-          "goal_for": 9,
-          "goal_against": 11,
-          "goal_difference": -2,
-          "points": 27
         },
         {
           "position": 19,
