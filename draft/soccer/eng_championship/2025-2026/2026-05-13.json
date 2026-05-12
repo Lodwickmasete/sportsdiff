@@ -1,0 +1,366 @@
+{
+  "group_name": "Championship ",
+  "updated_at": "2026-05-13T01:26:19",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "1346",
+        "name": "Coventry"
+      },
+      "played": 46,
+      "win": 28,
+      "draw": 11,
+      "loss": 7,
+      "goal_for": 97,
+      "goal_against": 45,
+      "goal_difference": 52,
+      "points": 95
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "57",
+        "name": "Ipswich"
+      },
+      "played": 46,
+      "win": 23,
+      "draw": 15,
+      "loss": 8,
+      "goal_for": 80,
+      "goal_against": 47,
+      "goal_difference": 33,
+      "points": 84
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "58",
+        "name": "Millwall"
+      },
+      "played": 46,
+      "win": 24,
+      "draw": 11,
+      "loss": 11,
+      "goal_for": 64,
+      "goal_against": 49,
+      "goal_difference": 15,
+      "points": 83
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "41",
+        "name": "Southampton"
+      },
+      "played": 46,
+      "win": 22,
+      "draw": 14,
+      "loss": 10,
+      "goal_for": 82,
+      "goal_against": 56,
+      "goal_difference": 26,
+      "points": 80
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "70",
+        "name": "Middlesbrough"
+      },
+      "played": 46,
+      "win": 22,
+      "draw": 14,
+      "loss": 10,
+      "goal_for": 72,
+      "goal_against": 47,
+      "goal_difference": 25,
+      "points": 80
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "64",
+        "name": "Hull City"
+      },
+      "played": 46,
+      "win": 21,
+      "draw": 10,
+      "loss": 15,
+      "goal_for": 70,
+      "goal_against": 66,
+      "goal_difference": 4,
+      "points": 73
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "1837",
+        "name": "Wrexham"
+      },
+      "played": 46,
+      "win": 19,
+      "draw": 14,
+      "loss": 13,
+      "goal_for": 69,
+      "goal_against": 65,
+      "goal_difference": 4,
+      "points": 71
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "69",
+        "name": "Derby"
+      },
+      "played": 46,
+      "win": 20,
+      "draw": 9,
+      "loss": 17,
+      "goal_for": 67,
+      "goal_against": 59,
+      "goal_difference": 8,
+      "points": 69
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "71",
+        "name": "Norwich"
+      },
+      "played": 46,
+      "win": 19,
+      "draw": 8,
+      "loss": 19,
+      "goal_for": 63,
+      "goal_against": 56,
+      "goal_difference": 7,
+      "points": 65
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "54",
+        "name": "Birmingham"
+      },
+      "played": 46,
+      "win": 17,
+      "draw": 13,
+      "loss": 16,
+      "goal_for": 57,
+      "goal_against": 56,
+      "goal_difference": 1,
+      "points": 64
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "76",
+        "name": "Swansea"
+      },
+      "played": 46,
+      "win": 18,
+      "draw": 10,
+      "loss": 18,
+      "goal_for": 57,
+      "goal_against": 59,
+      "goal_difference": -2,
+      "points": 64
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "56",
+        "name": "Bristol City"
+      },
+      "played": 46,
+      "win": 17,
+      "draw": 11,
+      "loss": 18,
+      "goal_for": 59,
+      "goal_against": 59,
+      "goal_difference": 0,
+      "points": 62
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "62",
+        "name": "Sheffield Utd"
+      },
+      "played": 46,
+      "win": 18,
+      "draw": 6,
+      "loss": 22,
+      "goal_for": 66,
+      "goal_against": 66,
+      "goal_difference": 0,
+      "points": 60
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "59",
+        "name": "Preston"
+      },
+      "played": 46,
+      "win": 15,
+      "draw": 15,
+      "loss": 16,
+      "goal_for": 55,
+      "goal_against": 62,
+      "goal_difference": -7,
+      "points": 60
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "72",
+        "name": "QPR"
+      },
+      "played": 46,
+      "win": 16,
+      "draw": 10,
+      "loss": 20,
+      "goal_for": 61,
+      "goal_against": 73,
+      "goal_difference": -12,
+      "points": 58
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "38",
+        "name": "Watford"
+      },
+      "played": 46,
+      "win": 14,
+      "draw": 15,
+      "loss": 17,
+      "goal_for": 53,
+      "goal_against": 65,
+      "goal_difference": -12,
+      "points": 57
+    },
+    {
+      "position": 17,
+      "team": {
+        "id": "75",
+        "name": "Stoke City"
+      },
+      "played": 46,
+      "win": 15,
+      "draw": 10,
+      "loss": 21,
+      "goal_for": 51,
+      "goal_against": 56,
+      "goal_difference": -5,
+      "points": 55
+    },
+    {
+      "position": 18,
+      "team": {
+        "id": "1355",
+        "name": "Portsmouth"
+      },
+      "played": 46,
+      "win": 14,
+      "draw": 13,
+      "loss": 19,
+      "goal_for": 49,
+      "goal_against": 64,
+      "goal_difference": -15,
+      "points": 55
+    },
+    {
+      "position": 19,
+      "team": {
+        "id": "1335",
+        "name": "Charlton"
+      },
+      "played": 46,
+      "win": 13,
+      "draw": 14,
+      "loss": 19,
+      "goal_for": 44,
+      "goal_against": 58,
+      "goal_difference": -14,
+      "points": 53
+    },
+    {
+      "position": 20,
+      "team": {
+        "id": "67",
+        "name": "Blackburn"
+      },
+      "played": 46,
+      "win": 13,
+      "draw": 13,
+      "loss": 20,
+      "goal_for": 42,
+      "goal_against": 56,
+      "goal_difference": -14,
+      "points": 52
+    },
+    {
+      "position": 21,
+      "team": {
+        "id": "60",
+        "name": "West Brom"
+      },
+      "played": 46,
+      "win": 13,
+      "draw": 14,
+      "loss": 19,
+      "goal_for": 48,
+      "goal_against": 58,
+      "goal_difference": -10,
+      "points": 51
+    },
+    {
+      "position": 22,
+      "team": {
+        "id": "1338",
+        "name": "Oxford United"
+      },
+      "played": 46,
+      "win": 11,
+      "draw": 14,
+      "loss": 21,
+      "goal_for": 45,
+      "goal_against": 59,
+      "goal_difference": -14,
+      "points": 47
+    },
+    {
+      "position": 23,
+      "team": {
+        "id": "46",
+        "name": "Leicester"
+      },
+      "played": 46,
+      "win": 12,
+      "draw": 16,
+      "loss": 18,
+      "goal_for": 58,
+      "goal_against": 68,
+      "goal_difference": -10,
+      "points": 46
+    },
+    {
+      "position": 24,
+      "team": {
+        "id": "74",
+        "name": "Sheffield Wednesday"
+      },
+      "played": 46,
+      "win": 2,
+      "draw": 12,
+      "loss": 32,
+      "goal_for": 29,
+      "goal_against": 89,
+      "goal_difference": -60,
+      "points": 0
+    }
+  ]
+}
