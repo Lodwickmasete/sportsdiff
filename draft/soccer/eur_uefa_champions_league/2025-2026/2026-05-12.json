@@ -1,0 +1,546 @@
+{
+  "group_name": "UEFA Champions League",
+  "updated_at": "2026-05-12T16:01:20",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "42",
+        "name": "Arsenal"
+      },
+      "played": 8,
+      "win": 8,
+      "draw": 0,
+      "loss": 0,
+      "goal_for": 23,
+      "goal_against": 4,
+      "goal_difference": 19,
+      "points": 24
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "157",
+        "name": "Bayern München"
+      },
+      "played": 8,
+      "win": 7,
+      "draw": 0,
+      "loss": 1,
+      "goal_for": 22,
+      "goal_against": 8,
+      "goal_difference": 14,
+      "points": 21
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "40",
+        "name": "Liverpool"
+      },
+      "played": 8,
+      "win": 6,
+      "draw": 0,
+      "loss": 2,
+      "goal_for": 20,
+      "goal_against": 8,
+      "goal_difference": 12,
+      "points": 18
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "47",
+        "name": "Tottenham"
+      },
+      "played": 8,
+      "win": 5,
+      "draw": 2,
+      "loss": 1,
+      "goal_for": 17,
+      "goal_against": 7,
+      "goal_difference": 10,
+      "points": 17
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "529",
+        "name": "Barcelona"
+      },
+      "played": 8,
+      "win": 5,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 22,
+      "goal_against": 14,
+      "goal_difference": 8,
+      "points": 16
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "49",
+        "name": "Chelsea"
+      },
+      "played": 8,
+      "win": 5,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 17,
+      "goal_against": 10,
+      "goal_difference": 7,
+      "points": 16
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "228",
+        "name": "Sporting CP"
+      },
+      "played": 8,
+      "win": 5,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 17,
+      "goal_against": 11,
+      "goal_difference": 6,
+      "points": 16
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "50",
+        "name": "Manchester City"
+      },
+      "played": 8,
+      "win": 5,
+      "draw": 1,
+      "loss": 2,
+      "goal_for": 15,
+      "goal_against": 9,
+      "goal_difference": 6,
+      "points": 16
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "541",
+        "name": "Real Madrid"
+      },
+      "played": 8,
+      "win": 5,
+      "draw": 0,
+      "loss": 3,
+      "goal_for": 21,
+      "goal_against": 12,
+      "goal_difference": 9,
+      "points": 15
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "505",
+        "name": "Inter"
+      },
+      "played": 8,
+      "win": 5,
+      "draw": 0,
+      "loss": 3,
+      "goal_for": 15,
+      "goal_against": 7,
+      "goal_difference": 8,
+      "points": 15
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "85",
+        "name": "Paris Saint Germain"
+      },
+      "played": 8,
+      "win": 4,
+      "draw": 2,
+      "loss": 2,
+      "goal_for": 21,
+      "goal_against": 11,
+      "goal_difference": 10,
+      "points": 14
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "34",
+        "name": "Newcastle"
+      },
+      "played": 8,
+      "win": 4,
+      "draw": 2,
+      "loss": 2,
+      "goal_for": 17,
+      "goal_against": 7,
+      "goal_difference": 10,
+      "points": 14
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "496",
+        "name": "Juventus"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 4,
+      "loss": 1,
+      "goal_for": 14,
+      "goal_against": 10,
+      "goal_difference": 4,
+      "points": 13
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "530",
+        "name": "Atletico Madrid"
+      },
+      "played": 8,
+      "win": 4,
+      "draw": 1,
+      "loss": 3,
+      "goal_for": 17,
+      "goal_against": 15,
+      "goal_difference": 2,
+      "points": 13
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "499",
+        "name": "Atalanta"
+      },
+      "played": 8,
+      "win": 4,
+      "draw": 1,
+      "loss": 3,
+      "goal_for": 10,
+      "goal_against": 10,
+      "goal_difference": 0,
+      "points": 13
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "168",
+        "name": "Bayer Leverkusen"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 3,
+      "loss": 2,
+      "goal_for": 13,
+      "goal_against": 14,
+      "goal_difference": -1,
+      "points": 12
+    },
+    {
+      "position": 17,
+      "team": {
+        "id": "165",
+        "name": "Borussia Dortmund"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 2,
+      "loss": 3,
+      "goal_for": 19,
+      "goal_against": 17,
+      "goal_difference": 2,
+      "points": 11
+    },
+    {
+      "position": 18,
+      "team": {
+        "id": "553",
+        "name": "Olympiakos Piraeus"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 2,
+      "loss": 3,
+      "goal_for": 10,
+      "goal_against": 14,
+      "goal_difference": -4,
+      "points": 11
+    },
+    {
+      "position": 19,
+      "team": {
+        "id": "569",
+        "name": "Club Brugge KV"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 1,
+      "loss": 4,
+      "goal_for": 15,
+      "goal_against": 17,
+      "goal_difference": -2,
+      "points": 10
+    },
+    {
+      "position": 20,
+      "team": {
+        "id": "645",
+        "name": "Galatasaray"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 1,
+      "loss": 4,
+      "goal_for": 9,
+      "goal_against": 11,
+      "goal_difference": -2,
+      "points": 10
+    },
+    {
+      "position": 21,
+      "team": {
+        "id": "91",
+        "name": "Monaco"
+      },
+      "played": 8,
+      "win": 2,
+      "draw": 4,
+      "loss": 2,
+      "goal_for": 8,
+      "goal_against": 14,
+      "goal_difference": -6,
+      "points": 10
+    },
+    {
+      "position": 22,
+      "team": {
+        "id": "556",
+        "name": "Qarabag"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 1,
+      "loss": 4,
+      "goal_for": 13,
+      "goal_against": 21,
+      "goal_difference": -8,
+      "points": 10
+    },
+    {
+      "position": 23,
+      "team": {
+        "id": "327",
+        "name": "Bodo/Glimt"
+      },
+      "played": 8,
+      "win": 2,
+      "draw": 3,
+      "loss": 3,
+      "goal_for": 14,
+      "goal_against": 15,
+      "goal_difference": -1,
+      "points": 9
+    },
+    {
+      "position": 24,
+      "team": {
+        "id": "211",
+        "name": "Benfica"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 0,
+      "loss": 5,
+      "goal_for": 10,
+      "goal_against": 12,
+      "goal_difference": -2,
+      "points": 9
+    },
+    {
+      "position": 25,
+      "team": {
+        "id": "81",
+        "name": "Marseille"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 0,
+      "loss": 5,
+      "goal_for": 11,
+      "goal_against": 14,
+      "goal_difference": -3,
+      "points": 9
+    },
+    {
+      "position": 26,
+      "team": {
+        "id": "3403",
+        "name": "Pafos"
+      },
+      "played": 8,
+      "win": 2,
+      "draw": 3,
+      "loss": 3,
+      "goal_for": 8,
+      "goal_against": 11,
+      "goal_difference": -3,
+      "points": 9
+    },
+    {
+      "position": 27,
+      "team": {
+        "id": "1393",
+        "name": "Union St. Gilloise"
+      },
+      "played": 8,
+      "win": 3,
+      "draw": 0,
+      "loss": 5,
+      "goal_for": 8,
+      "goal_against": 17,
+      "goal_difference": -9,
+      "points": 9
+    },
+    {
+      "position": 28,
+      "team": {
+        "id": "197",
+        "name": "PSV Eindhoven"
+      },
+      "played": 8,
+      "win": 2,
+      "draw": 2,
+      "loss": 4,
+      "goal_for": 16,
+      "goal_against": 16,
+      "goal_difference": 0,
+      "points": 8
+    },
+    {
+      "position": 29,
+      "team": {
+        "id": "531",
+        "name": "Athletic Club"
+      },
+      "played": 8,
+      "win": 2,
+      "draw": 2,
+      "loss": 4,
+      "goal_for": 9,
+      "goal_against": 14,
+      "goal_difference": -5,
+      "points": 8
+    },
+    {
+      "position": 30,
+      "team": {
+        "id": "492",
+        "name": "Napoli"
+      },
+      "played": 8,
+      "win": 2,
+      "draw": 2,
+      "loss": 4,
+      "goal_for": 9,
+      "goal_against": 15,
+      "goal_difference": -6,
+      "points": 8
+    },
+    {
+      "position": 31,
+      "team": {
+        "id": "400",
+        "name": "FC Copenhagen"
+      },
+      "played": 8,
+      "win": 2,
+      "draw": 2,
+      "loss": 4,
+      "goal_for": 12,
+      "goal_against": 21,
+      "goal_difference": -9,
+      "points": 8
+    },
+    {
+      "position": 32,
+      "team": {
+        "id": "194",
+        "name": "Ajax"
+      },
+      "played": 8,
+      "win": 2,
+      "draw": 0,
+      "loss": 6,
+      "goal_for": 8,
+      "goal_against": 21,
+      "goal_difference": -13,
+      "points": 6
+    },
+    {
+      "position": 33,
+      "team": {
+        "id": "169",
+        "name": "Eintracht Frankfurt"
+      },
+      "played": 8,
+      "win": 1,
+      "draw": 1,
+      "loss": 6,
+      "goal_for": 10,
+      "goal_against": 21,
+      "goal_difference": -11,
+      "points": 4
+    },
+    {
+      "position": 34,
+      "team": {
+        "id": "560",
+        "name": "Slavia Praha"
+      },
+      "played": 8,
+      "win": 0,
+      "draw": 3,
+      "loss": 5,
+      "goal_for": 5,
+      "goal_against": 19,
+      "goal_difference": -14,
+      "points": 3
+    },
+    {
+      "position": 35,
+      "team": {
+        "id": "533",
+        "name": "Villarreal"
+      },
+      "played": 8,
+      "win": 0,
+      "draw": 1,
+      "loss": 7,
+      "goal_for": 5,
+      "goal_against": 18,
+      "goal_difference": -13,
+      "points": 1
+    },
+    {
+      "position": 36,
+      "team": {
+        "id": "664",
+        "name": "Kairat Almaty"
+      },
+      "played": 8,
+      "win": 0,
+      "draw": 1,
+      "loss": 7,
+      "goal_for": 7,
+      "goal_against": 22,
+      "goal_difference": -15,
+      "points": 1
+    }
+  ]
+}
