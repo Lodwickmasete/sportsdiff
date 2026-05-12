@@ -1,0 +1,330 @@
+{
+  "updated_at": "2026-05-12T16:01:24",
+  "groups": [
+    {
+      "group_name": "Premier League: Championship ",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "id": "1040",
+            "name": "Zamalek SC"
+          },
+          "played": 5,
+          "win": 3,
+          "draw": 1,
+          "loss": 1,
+          "goal_for": 6,
+          "goal_against": 4,
+          "goal_difference": 2,
+          "points": 53
+        },
+        {
+          "position": 2,
+          "team": {
+            "id": "1036",
+            "name": "Pyramids FC"
+          },
+          "played": 5,
+          "win": 2,
+          "draw": 2,
+          "loss": 1,
+          "goal_for": 8,
+          "goal_against": 5,
+          "goal_difference": 3,
+          "points": 51
+        },
+        {
+          "position": 3,
+          "team": {
+            "id": "1577",
+            "name": "Al Ahly"
+          },
+          "played": 5,
+          "win": 3,
+          "draw": 1,
+          "loss": 1,
+          "goal_for": 9,
+          "goal_against": 5,
+          "goal_difference": 4,
+          "points": 50
+        },
+        {
+          "position": 4,
+          "team": {
+            "id": "14651",
+            "name": "Ceramica Cleopatra"
+          },
+          "played": 5,
+          "win": 1,
+          "draw": 3,
+          "loss": 1,
+          "goal_for": 5,
+          "goal_against": 4,
+          "goal_difference": 1,
+          "points": 44
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": "1031",
+            "name": "AL Masry"
+          },
+          "played": 5,
+          "win": 2,
+          "draw": 2,
+          "loss": 1,
+          "goal_for": 6,
+          "goal_against": 7,
+          "goal_difference": -1,
+          "points": 40
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": "1037",
+            "name": "Enppi"
+          },
+          "played": 6,
+          "win": 1,
+          "draw": 3,
+          "loss": 2,
+          "goal_for": 7,
+          "goal_against": 9,
+          "goal_difference": -2,
+          "points": 36
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": "1044",
+            "name": "Smouha SC"
+          },
+          "played": 5,
+          "win": 0,
+          "draw": 0,
+          "loss": 5,
+          "goal_for": 1,
+          "goal_against": 8,
+          "goal_difference": -7,
+          "points": 31
+        }
+      ]
+    },
+    {
+      "group_name": "Premier League: Relegation Gr",
+      "table": [
+        {
+          "position": 8,
+          "team": {
+            "id": "1046",
+            "name": "Wadi Degla"
+          },
+          "played": 9,
+          "win": 4,
+          "draw": 4,
+          "loss": 1,
+          "goal_for": 12,
+          "goal_against": 5,
+          "goal_difference": 7,
+          "points": 45
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": "15570",
+            "name": "National Bank of Egypt"
+          },
+          "played": 9,
+          "win": 5,
+          "draw": 2,
+          "loss": 2,
+          "goal_for": 14,
+          "goal_against": 10,
+          "goal_difference": 4,
+          "points": 43
+        },
+        {
+          "position": 10,
+          "team": {
+            "id": "7520",
+            "name": "Masr"
+          },
+          "played": 9,
+          "win": 4,
+          "draw": 2,
+          "loss": 3,
+          "goal_for": 12,
+          "goal_against": 10,
+          "goal_difference": 2,
+          "points": 43
+        },
+        {
+          "position": 11,
+          "team": {
+            "id": "1574",
+            "name": "El Gouna FC"
+          },
+          "played": 9,
+          "win": 2,
+          "draw": 5,
+          "loss": 2,
+          "goal_for": 5,
+          "goal_against": 5,
+          "goal_difference": 0,
+          "points": 39
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": "1041",
+            "name": "Petrojet"
+          },
+          "played": 9,
+          "win": 3,
+          "draw": 4,
+          "loss": 2,
+          "goal_for": 10,
+          "goal_against": 10,
+          "goal_difference": 0,
+          "points": 38
+        },
+        {
+          "position": 13,
+          "team": {
+            "id": "1039",
+            "name": "El Geish"
+          },
+          "played": 9,
+          "win": 3,
+          "draw": 3,
+          "loss": 3,
+          "goal_for": 5,
+          "goal_against": 5,
+          "goal_difference": 0,
+          "points": 34
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": "1575",
+            "name": "El Mokawloon"
+          },
+          "played": 9,
+          "win": 3,
+          "draw": 5,
+          "loss": 1,
+          "goal_for": 9,
+          "goal_against": 6,
+          "goal_difference": 3,
+          "points": 32
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": "16431",
+            "name": "Future FC"
+          },
+          "played": 9,
+          "win": 1,
+          "draw": 6,
+          "loss": 2,
+          "goal_for": 5,
+          "goal_against": 6,
+          "goal_difference": -1,
+          "points": 32
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": "13819",
+            "name": "Ghazl El Mehalla"
+          },
+          "played": 9,
+          "win": 2,
+          "draw": 6,
+          "loss": 1,
+          "goal_for": 8,
+          "goal_against": 6,
+          "goal_difference": 2,
+          "points": 31
+        },
+        {
+          "position": 17,
+          "team": {
+            "id": "1572",
+            "name": "Al Ittihad"
+          },
+          "played": 9,
+          "win": 1,
+          "draw": 6,
+          "loss": 2,
+          "goal_for": 8,
+          "goal_against": 11,
+          "goal_difference": -3,
+          "points": 29
+        },
+        {
+          "position": 18,
+          "team": {
+            "id": "20458",
+            "name": "Kahraba Ismailia"
+          },
+          "played": 9,
+          "win": 2,
+          "draw": 5,
+          "loss": 2,
+          "goal_for": 9,
+          "goal_against": 11,
+          "goal_difference": -2,
+          "points": 27
+        },
+        {
+          "position": 19,
+          "team": {
+            "id": "15736",
+            "name": "Pharco"
+          },
+          "played": 9,
+          "win": 1,
+          "draw": 4,
+          "loss": 4,
+          "goal_for": 5,
+          "goal_against": 9,
+          "goal_difference": -4,
+          "points": 22
+        },
+        {
+          "position": 20,
+          "team": {
+            "id": "1576",
+            "name": "Haras El Hodood"
+          },
+          "played": 9,
+          "win": 0,
+          "draw": 5,
+          "loss": 4,
+          "goal_for": 7,
+          "goal_against": 12,
+          "goal_difference": -5,
+          "points": 22
+        },
+        {
+          "position": 21,
+          "team": {
+            "id": "1030",
+            "name": "Ismaily SC"
+          },
+          "played": 9,
+          "win": 1,
+          "draw": 5,
+          "loss": 3,
+          "goal_for": 2,
+          "goal_against": 5,
+          "goal_difference": -3,
+          "points": 19
+        }
+      ]
+    }
+  ]
+}
