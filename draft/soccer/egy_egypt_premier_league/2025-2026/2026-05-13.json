@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T01:26:00",
+  "updated_at": "2026-05-13T22:38:43",
   "groups": [
     {
       "group_name": "Premier League: Championship ",
@@ -132,6 +132,21 @@
         {
           "position": 9,
           "team": {
+            "id": "7520",
+            "name": "Masr"
+          },
+          "played": 10,
+          "win": 5,
+          "draw": 2,
+          "loss": 3,
+          "goal_for": 15,
+          "goal_against": 12,
+          "goal_difference": 3,
+          "points": 46
+        },
+        {
+          "position": 10,
+          "team": {
             "id": "15570",
             "name": "National Bank of Egypt"
           },
@@ -142,21 +157,6 @@
           "goal_for": 14,
           "goal_against": 10,
           "goal_difference": 4,
-          "points": 43
-        },
-        {
-          "position": 10,
-          "team": {
-            "id": "7520",
-            "name": "Masr"
-          },
-          "played": 9,
-          "win": 4,
-          "draw": 2,
-          "loss": 3,
-          "goal_for": 12,
-          "goal_against": 10,
-          "goal_difference": 2,
           "points": 43
         },
         {
@@ -225,14 +225,14 @@
             "id": "1575",
             "name": "El Mokawloon"
           },
-          "played": 9,
+          "played": 10,
           "win": 3,
-          "draw": 5,
+          "draw": 6,
           "loss": 1,
           "goal_for": 9,
           "goal_against": 6,
           "goal_difference": 3,
-          "points": 32
+          "points": 33
         },
         {
           "position": 16,
@@ -240,13 +240,13 @@
             "id": "13819",
             "name": "Ghazl El Mehalla"
           },
-          "played": 9,
+          "played": 10,
           "win": 2,
           "draw": 6,
-          "loss": 1,
-          "goal_for": 8,
-          "goal_against": 6,
-          "goal_difference": 2,
+          "loss": 2,
+          "goal_for": 10,
+          "goal_against": 9,
+          "goal_difference": 1,
           "points": 31
         },
         {
@@ -285,14 +285,14 @@
             "id": "1576",
             "name": "Haras El Hodood"
           },
-          "played": 9,
+          "played": 10,
           "win": 0,
-          "draw": 5,
+          "draw": 6,
           "loss": 4,
           "goal_for": 7,
           "goal_against": 12,
           "goal_difference": -5,
-          "points": 22
+          "points": 23
         },
         {
           "position": 20,
