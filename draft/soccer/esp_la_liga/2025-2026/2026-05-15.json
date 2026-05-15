@@ -1,0 +1,306 @@
+{
+  "group_name": "Primera División",
+  "updated_at": "2026-05-15T21:16:44",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "529",
+        "name": "Barcelona"
+      },
+      "played": 36,
+      "win": 30,
+      "draw": 1,
+      "loss": 5,
+      "goal_for": 91,
+      "goal_against": 32,
+      "goal_difference": 59,
+      "points": 91
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "541",
+        "name": "Real Madrid"
+      },
+      "played": 36,
+      "win": 25,
+      "draw": 5,
+      "loss": 6,
+      "goal_for": 72,
+      "goal_against": 33,
+      "goal_difference": 39,
+      "points": 80
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "533",
+        "name": "Villarreal"
+      },
+      "played": 36,
+      "win": 21,
+      "draw": 6,
+      "loss": 9,
+      "goal_for": 67,
+      "goal_against": 43,
+      "goal_difference": 24,
+      "points": 69
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "530",
+        "name": "Atletico Madrid"
+      },
+      "played": 36,
+      "win": 20,
+      "draw": 6,
+      "loss": 10,
+      "goal_for": 60,
+      "goal_against": 39,
+      "goal_difference": 21,
+      "points": 66
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "543",
+        "name": "Real Betis"
+      },
+      "played": 36,
+      "win": 14,
+      "draw": 15,
+      "loss": 7,
+      "goal_for": 56,
+      "goal_against": 44,
+      "goal_difference": 12,
+      "points": 57
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "538",
+        "name": "Celta Vigo"
+      },
+      "played": 36,
+      "win": 13,
+      "draw": 11,
+      "loss": 12,
+      "goal_for": 51,
+      "goal_against": 47,
+      "goal_difference": 4,
+      "points": 50
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "546",
+        "name": "Getafe"
+      },
+      "played": 36,
+      "win": 14,
+      "draw": 6,
+      "loss": 16,
+      "goal_for": 31,
+      "goal_against": 37,
+      "goal_difference": -6,
+      "points": 48
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "548",
+        "name": "Real Sociedad"
+      },
+      "played": 36,
+      "win": 11,
+      "draw": 12,
+      "loss": 13,
+      "goal_for": 55,
+      "goal_against": 56,
+      "goal_difference": -1,
+      "points": 45
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "531",
+        "name": "Athletic Club"
+      },
+      "played": 36,
+      "win": 13,
+      "draw": 5,
+      "loss": 18,
+      "goal_for": 40,
+      "goal_against": 53,
+      "goal_difference": -13,
+      "points": 44
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "728",
+        "name": "Rayo Vallecano"
+      },
+      "played": 36,
+      "win": 10,
+      "draw": 14,
+      "loss": 12,
+      "goal_for": 37,
+      "goal_against": 43,
+      "goal_difference": -6,
+      "points": 44
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "532",
+        "name": "Valencia"
+      },
+      "played": 36,
+      "win": 11,
+      "draw": 10,
+      "loss": 15,
+      "goal_for": 39,
+      "goal_against": 51,
+      "goal_difference": -12,
+      "points": 43
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "536",
+        "name": "Sevilla"
+      },
+      "played": 36,
+      "win": 12,
+      "draw": 7,
+      "loss": 17,
+      "goal_for": 46,
+      "goal_against": 58,
+      "goal_difference": -12,
+      "points": 43
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "727",
+        "name": "Osasuna"
+      },
+      "played": 36,
+      "win": 11,
+      "draw": 9,
+      "loss": 16,
+      "goal_for": 43,
+      "goal_against": 47,
+      "goal_difference": -4,
+      "points": 42
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "540",
+        "name": "Espanyol"
+      },
+      "played": 36,
+      "win": 11,
+      "draw": 9,
+      "loss": 16,
+      "goal_for": 40,
+      "goal_against": 53,
+      "goal_difference": -13,
+      "points": 42
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "547",
+        "name": "Girona"
+      },
+      "played": 36,
+      "win": 9,
+      "draw": 13,
+      "loss": 14,
+      "goal_for": 38,
+      "goal_against": 53,
+      "goal_difference": -15,
+      "points": 40
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "542",
+        "name": "Alaves"
+      },
+      "played": 36,
+      "win": 10,
+      "draw": 10,
+      "loss": 16,
+      "goal_for": 42,
+      "goal_against": 54,
+      "goal_difference": -12,
+      "points": 40
+    },
+    {
+      "position": 17,
+      "team": {
+        "id": "797",
+        "name": "Elche"
+      },
+      "played": 36,
+      "win": 9,
+      "draw": 12,
+      "loss": 15,
+      "goal_for": 47,
+      "goal_against": 56,
+      "goal_difference": -9,
+      "points": 39
+    },
+    {
+      "position": 18,
+      "team": {
+        "id": "798",
+        "name": "Mallorca"
+      },
+      "played": 36,
+      "win": 10,
+      "draw": 9,
+      "loss": 17,
+      "goal_for": 44,
+      "goal_against": 55,
+      "goal_difference": -11,
+      "points": 39
+    },
+    {
+      "position": 19,
+      "team": {
+        "id": "539",
+        "name": "Levante"
+      },
+      "played": 36,
+      "win": 10,
+      "draw": 9,
+      "loss": 17,
+      "goal_for": 44,
+      "goal_against": 59,
+      "goal_difference": -15,
+      "points": 39
+    },
+    {
+      "position": 20,
+      "team": {
+        "id": "718",
+        "name": "Oviedo"
+      },
+      "played": 36,
+      "win": 6,
+      "draw": 11,
+      "loss": 19,
+      "goal_for": 26,
+      "goal_against": 56,
+      "goal_difference": -30,
+      "points": 29
+    }
+  ]
+}
