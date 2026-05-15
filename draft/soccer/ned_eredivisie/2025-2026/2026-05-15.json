@@ -1,0 +1,276 @@
+{
+  "group_name": "Eredivisie",
+  "updated_at": "2026-05-15T21:19:54",
+  "table": [
+    {
+      "position": 1,
+      "team": {
+        "id": "197",
+        "name": "PSV Eindhoven"
+      },
+      "played": 33,
+      "win": 26,
+      "draw": 3,
+      "loss": 4,
+      "goal_for": 96,
+      "goal_against": 44,
+      "goal_difference": 52,
+      "points": 81
+    },
+    {
+      "position": 2,
+      "team": {
+        "id": "209",
+        "name": "Feyenoord"
+      },
+      "played": 33,
+      "win": 18,
+      "draw": 8,
+      "loss": 7,
+      "goal_for": 68,
+      "goal_against": 44,
+      "goal_difference": 24,
+      "points": 62
+    },
+    {
+      "position": 3,
+      "team": {
+        "id": "415",
+        "name": "Twente"
+      },
+      "played": 33,
+      "win": 15,
+      "draw": 13,
+      "loss": 5,
+      "goal_for": 58,
+      "goal_against": 35,
+      "goal_difference": 23,
+      "points": 58
+    },
+    {
+      "position": 4,
+      "team": {
+        "id": "413",
+        "name": "NEC Nijmegen"
+      },
+      "played": 33,
+      "win": 15,
+      "draw": 11,
+      "loss": 7,
+      "goal_for": 75,
+      "goal_against": 52,
+      "goal_difference": 23,
+      "points": 56
+    },
+    {
+      "position": 5,
+      "team": {
+        "id": "194",
+        "name": "Ajax"
+      },
+      "played": 33,
+      "win": 14,
+      "draw": 13,
+      "loss": 6,
+      "goal_for": 62,
+      "goal_against": 41,
+      "goal_difference": 21,
+      "points": 55
+    },
+    {
+      "position": 6,
+      "team": {
+        "id": "201",
+        "name": "AZ Alkmaar"
+      },
+      "played": 33,
+      "win": 14,
+      "draw": 9,
+      "loss": 10,
+      "goal_for": 55,
+      "goal_against": 48,
+      "goal_difference": 7,
+      "points": 51
+    },
+    {
+      "position": 7,
+      "team": {
+        "id": "207",
+        "name": "Utrecht"
+      },
+      "played": 33,
+      "win": 14,
+      "draw": 8,
+      "loss": 11,
+      "goal_for": 53,
+      "goal_against": 42,
+      "goal_difference": 11,
+      "points": 50
+    },
+    {
+      "position": 8,
+      "team": {
+        "id": "210",
+        "name": "Heerenveen"
+      },
+      "played": 33,
+      "win": 14,
+      "draw": 8,
+      "loss": 11,
+      "goal_for": 57,
+      "goal_against": 53,
+      "goal_difference": 4,
+      "points": 50
+    },
+    {
+      "position": 9,
+      "team": {
+        "id": "202",
+        "name": "Groningen"
+      },
+      "played": 33,
+      "win": 13,
+      "draw": 6,
+      "loss": 14,
+      "goal_for": 47,
+      "goal_against": 44,
+      "goal_difference": 3,
+      "points": 45
+    },
+    {
+      "position": 10,
+      "team": {
+        "id": "426",
+        "name": "Sparta Rotterdam"
+      },
+      "played": 33,
+      "win": 12,
+      "draw": 7,
+      "loss": 14,
+      "goal_for": 38,
+      "goal_against": 59,
+      "goal_difference": -21,
+      "points": 43
+    },
+    {
+      "position": 11,
+      "team": {
+        "id": "205",
+        "name": "Fortuna Sittard"
+      },
+      "played": 33,
+      "win": 11,
+      "draw": 6,
+      "loss": 16,
+      "goal_for": 49,
+      "goal_against": 61,
+      "goal_difference": -12,
+      "points": 39
+    },
+    {
+      "position": 12,
+      "team": {
+        "id": "410",
+        "name": "GO Ahead Eagles"
+      },
+      "played": 33,
+      "win": 8,
+      "draw": 14,
+      "loss": 11,
+      "goal_for": 53,
+      "goal_against": 51,
+      "goal_difference": 2,
+      "points": 38
+    },
+    {
+      "position": 13,
+      "team": {
+        "id": "193",
+        "name": "PEC Zwolle"
+      },
+      "played": 33,
+      "win": 9,
+      "draw": 10,
+      "loss": 14,
+      "goal_for": 44,
+      "goal_against": 69,
+      "goal_difference": -25,
+      "points": 37
+    },
+    {
+      "position": 14,
+      "team": {
+        "id": "196",
+        "name": "Excelsior"
+      },
+      "played": 33,
+      "win": 9,
+      "draw": 8,
+      "loss": 16,
+      "goal_for": 40,
+      "goal_against": 54,
+      "goal_difference": -14,
+      "points": 35
+    },
+    {
+      "position": 15,
+      "team": {
+        "id": "427",
+        "name": "Telstar"
+      },
+      "played": 33,
+      "win": 8,
+      "draw": 10,
+      "loss": 15,
+      "goal_for": 47,
+      "goal_against": 54,
+      "goal_difference": -7,
+      "points": 34
+    },
+    {
+      "position": 16,
+      "team": {
+        "id": "416",
+        "name": "FC Volendam"
+      },
+      "played": 33,
+      "win": 8,
+      "draw": 8,
+      "loss": 17,
+      "goal_for": 34,
+      "goal_against": 53,
+      "goal_difference": -19,
+      "points": 32
+    },
+    {
+      "position": 17,
+      "team": {
+        "id": "203",
+        "name": "NAC Breda"
+      },
+      "played": 33,
+      "win": 6,
+      "draw": 10,
+      "loss": 17,
+      "goal_for": 32,
+      "goal_against": 55,
+      "goal_difference": -23,
+      "points": 28
+    },
+    {
+      "position": 18,
+      "team": {
+        "id": "206",
+        "name": "Heracles"
+      },
+      "played": 33,
+      "win": 5,
+      "draw": 4,
+      "loss": 24,
+      "goal_for": 34,
+      "goal_against": 83,
+      "goal_difference": -49,
+      "points": 19
+    }
+  ]
+}
